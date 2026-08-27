@@ -1,0 +1,34 @@
+# MovieFlix Phase 1 Movie Dataset
+# Format:
+# ID|Title|Genre|Rating|Year|Actors|Director|Description
+
+1|Avengers|Action|8.0|2012|Robert Downey Jr., Chris Evans, Scarlett Johansson|Joss Whedon|Earth's mightiest heroes unite to fight a global threat.
+2|Avengers Endgame|Action|8.4|2019|Robert Downey Jr., Chris Evans, Mark Ruffalo|Anthony Russo, Joe Russo|The Avengers make a final stand to restore the universe.
+3|Avengers Infinity War|Action|8.4|2018|Robert Downey Jr., Chris Evans, Chris Hemsworth|Anthony Russo, Joe Russo|The Avengers face a powerful enemy seeking the Infinity Stones.
+4|Iron Man|Action|7.9|2008|Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges|Jon Favreau|A genius builds a powered suit and becomes a superhero.
+5|Iron Man 2|Action|7.0|2010|Robert Downey Jr., Gwyneth Paltrow, Don Cheadle|Jon Favreau|Tony Stark faces new enemies while protecting his technology.
+6|Spider-Man|Action|7.3|2002|Tobey Maguire, Kirsten Dunst, Willem Dafoe|Sam Raimi|A young man gains spider-like abilities and becomes a hero.
+7|Spider-Man No Way Home|Action|8.2|2021|Tom Holland, Zendaya, Benedict Cumberbatch|Jon Watts|Spider-Man faces villains from different realities.
+8|Batman Begins|Action|8.2|2005|Christian Bale, Michael Caine, Liam Neeson|Christopher Nolan|Bruce Wayne begins his journey as Batman.
+9|The Dark Knight|Action|9.0|2008|Christian Bale, Heath Ledger, Aaron Eckhart|Christopher Nolan|Batman faces the Joker in Gotham City.
+10|Man of Steel|Action|7.1|2013|Henry Cavill, Amy Adams, Michael Shannon|Zack Snyder|Superman discovers his origins and protects Earth.
+11|Avatar|Sci-Fi|7.8|2009|Sam Worthington, Zoe Saldana, Sigourney Weaver|James Cameron|A marine explores the world of Pandora.
+12|Avatar The Way of Water|Sci-Fi|7.5|2022|Sam Worthington, Zoe Saldana, Sigourney Weaver|James Cameron|The Sully family explores the oceans of Pandora.
+13|Interstellar|Sci-Fi|8.7|2014|Matthew McConaughey, Anne Hathaway, Jessica Chastain|Christopher Nolan|Explorers travel through a wormhole searching for a new home.
+14|Inception|Sci-Fi|8.8|2010|Leonardo DiCaprio, Joseph Gordon-Levitt, Tom Hardy|Christopher Nolan|A specialist enters dreams to perform corporate espionage.
+15|The Matrix|Sci-Fi|8.7|1999|Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss|Lana Wachowski, Lilly Wachowski|A hacker discovers that reality is a simulated world.
+16|RRR|Action|8.0|2022|N. T. Rama Rao Jr., Ram Charan, Alia Bhatt|S. S. Rajamouli|Two revolutionaries form a powerful friendship during colonial India.
+17|Baahubali|Action|8.0|2015|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|A young warrior discovers his royal heritage.
+18|Pushpa|Action|7.6|2021|Allu Arjun, Rashmika Mandanna, Fahadh Faasil|Sukumar|A determined smuggler rises through the red sandalwood trade.
+19|Kalki 2898 AD|Sci-Fi|8.0|2024|Prabhas, Deepika Padukone, Amitabh Bachchan|Nag Ashwin|A futuristic story involving mythology and the survival of humanity.
+20|3 Idiots|Comedy Drama|8.4|2009|Aamir Khan, R. Madhavan, Sharman Joshi|Rajkumar Hirani|Three friends navigate college life and social expectations.
+21|Dangal|Drama|8.3|2016|Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra|Nitesh Tiwari|A father trains his daughters to become wrestling champions.
+22|Drishyam|Thriller|8.2|2015|Ajay Devgn, Tabu, Shriya Saran|Nishikant Kamat|A family uses careful planning to protect themselves from a crime investigation.
+23|Jawan|Action|7.0|2023|Shah Rukh Khan, Nayanthara, Vijay Sethupathi|Atlee|A man confronts corruption while pursuing justice.
+24|Pathaan|Action|5.8|2023|Shah Rukh Khan, Deepika Padukone, John Abraham|Siddharth Anand|An intelligence agent returns to stop a dangerous threat.
+25|Baahubali 2|Action|8.2|2017|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|The story of the kingdom continues as a mystery is revealed.
+26|KGF|Action|8.2|2018|Yash, Srinidhi Shetty, Ramachandra Raju|Prashanth Neel|A determined man rises to power in a dangerous gold mining empire.
+27|KGF Chapter 2|Action|8.4|2022|Yash, Sanjay Dutt, Srinidhi Shetty|Prashanth Neel|Rocky faces new enemies while protecting his empire.
+28|Leo|Action|7.2|2023|Vijay, Trisha, Sanjay Dutt|Lokesh Kanagaraj|A quiet cafe owner is drawn into a violent past.
+29|Vikram|Action|8.3|2022|Kamal Haasan, Vijay Sethupathi, Fahadh Faasil|Lokesh Kanagaraj|A black-ops team uncovers a dangerous criminal network.
+30|Kaithi|Action|8.4|2019|Karthi, Narain, Dheena|Lokesh Kanagaraj|A prisoner helps police transport seized drugs during one intense night.

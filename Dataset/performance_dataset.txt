@@ -1,0 +1,1005 @@
+﻿# PERFORMANCE / EXPERIMENTAL DATASET
+# Purpose: Algorithm performance testing (search, sort, DP, parallel, randomized)
+# Format: ID|MovieTitle|Genre|Rating|Duration|Popularity
+# Records: 1000
+
+1|The Last Warrior|Action|6|80|50
+2|Blood Ridge|Action|6.1|87|53
+3|Iron Storm|Action|6.3|94|56
+4|Thunder Strike|Action|6.4|101|59
+5|Phantom Force|Action|6.6|108|62
+6|Dark Pursuit|Action|6.7|115|65
+7|Death Race Alpha|Action|6.8|122|68
+8|Combat Zone|Action|7|129|71
+9|War Front|Action|7.1|136|74
+10|Silent Bullet|Action|7.2|143|77
+11|Eagle Squad|Action|7.4|150|80
+12|Night Raid|Action|7.5|157|83
+13|Desert Storm|Action|7.7|164|86
+14|Crimson Flag|Action|7.8|171|89
+15|Steel Cross|Action|7.9|178|92
+16|Rapid Fire|Action|8.1|185|95
+17|Nuclear Dawn|Action|8.2|192|98
+18|Battle Cry|Action|8.4|199|50
+19|Zero Tolerance|Action|8.5|85|53
+20|Operation Strike|Action|6|92|56
+21|Ghost Protocol|Action|6.1|99|59
+22|Delta Force Rising|Action|6.3|106|62
+23|Iron Hammer|Action|6.4|113|65
+24|Blade Runner X|Action|6.6|120|68
+25|Rampage City|Action|6.7|127|71
+26|Fortress Under Siege|Action|6.8|134|74
+27|Thunder Road|Action|7|141|77
+28|Black Site|Action|7.1|148|80
+29|Warriors Code|Action|7.2|155|83
+30|Blood Moon Rising|Action|7.4|162|86
+31|The Punisher|Action|7.5|169|89
+32|Death Angel|Action|7.7|176|92
+33|Flame Striker|Action|7.8|183|95
+34|Cold War Zero|Action|7.9|190|98
+35|Hitman X|Action|8.1|197|50
+36|Death Row Breakout|Action|8.2|83|53
+37|Bullet Train Chaos|Action|8.4|90|56
+38|Code Red|Action|8.5|97|59
+39|Red Zone Alpha|Action|6|104|62
+40|Operation Phoenix|Action|6.1|111|65
+41|Marine Storm|Action|6.3|118|68
+42|Battle Hardened|Action|6.4|125|71
+43|Combat Extreme|Action|6.6|132|74
+44|Final Showdown|Action|6.7|139|77
+45|Desert Eagle|Action|6.8|146|80
+46|Steel Battalion|Action|7|153|83
+47|Maximum Impact|Action|7.1|160|86
+48|Crisis Zone|Action|7.2|167|89
+49|Unstoppable Force|Action|7.4|174|92
+50|Razor Edge|Action|7.5|181|95
+51|Speed Force|Action|7.7|188|98
+52|Combat Mission|Action|7.8|195|50
+53|Lethal Weapon Zero|Action|7.9|81|53
+54|Alpha Strike|Action|8.1|88|56
+55|Red Dawn Rising|Action|8.2|95|59
+56|Metal Fury|Action|8.4|102|62
+57|Night Hawk|Action|8.5|109|65
+58|Steel Valor|Action|6|116|68
+59|Thunder Wolf|Action|6.1|123|71
+60|Rapid Assault|Action|6.3|130|74
+61|Iron Titan|Action|6.4|137|77
+62|Cold Steel|Action|6.6|144|80
+63|Savage Hunt|Action|6.7|151|83
+64|Stone Cold Warrior|Action|6.8|158|86
+65|Digital Soldier|Action|7|165|89
+66|Extreme Threat|Action|7.1|172|92
+67|Dark Horizon Alpha|Action|7.2|179|95
+68|Shadow Warrior Returns|Action|7.4|186|98
+69|The Commando Legacy|Action|7.5|193|50
+70|Combat Evolution|Action|7.7|200|53
+71|Fire Strike|Action|7.8|86|56
+72|Storm Breaker|Action|7.9|93|59
+73|Delta Squad|Action|8.1|100|62
+74|Battle Cry Zero|Action|8.2|107|65
+75|Phantom Soldier|Action|8.4|114|68
+76|War Zone X|Action|8.5|121|71
+77|Blood Rush|Action|6|128|74
+78|Iron Will|Action|6.1|135|77
+79|Steel Phoenix|Action|6.3|142|80
+80|Thunder Kings|Action|6.4|149|83
+81|Combat Wave|Action|6.6|156|86
+82|Ghost Warrior|Action|6.7|163|89
+83|Digital War|Action|6.8|170|92
+84|Neon Strike|Action|7|177|95
+85|Cyber Hunter|Action|7.1|184|98
+86|Urban Warrior|Action|7.2|191|50
+87|Steel Shadow|Action|7.4|198|53
+88|Night Force|Action|7.5|84|56
+89|Rapid Command|Action|7.7|91|59
+90|Black Knight Returns|Action|7.8|98|62
+91|War Protocol|Action|7.9|105|65
+92|Steel Titan|Action|8.1|112|68
+93|Death Strike|Action|8.2|119|71
+94|Alpha Wolf|Action|8.4|126|74
+95|Combat Nation|Action|8.5|133|77
+96|Iron Fortress|Action|6|140|80
+97|Battle Protocol|Action|6.1|147|83
+98|Steel Surge|Action|6.3|154|86
+99|Shadow Strike|Action|6.4|161|89
+100|Storm Protocol|Action|6.6|168|92
+101|Quantum Leap|Sci-Fi|5.5|80|57
+102|Star Patrol|Sci-Fi|5.7|87|60
+103|Nebula Rising|Sci-Fi|5.9|94|63
+104|Galactic Order|Sci-Fi|6|101|66
+105|Space Odyssey Z|Sci-Fi|6.2|108|69
+106|Cosmic Drift|Sci-Fi|6.4|115|72
+107|Alien Contact|Sci-Fi|6.6|122|75
+108|Stellar Force|Sci-Fi|6.8|129|78
+109|Dark Matter X|Sci-Fi|7|136|81
+110|Void Runners|Sci-Fi|7.2|143|84
+111|Planet Exodus|Sci-Fi|7.3|150|87
+112|Star Forge|Sci-Fi|7.5|157|90
+113|Nebula Storm|Sci-Fi|7.7|164|93
+114|Cosmic War|Sci-Fi|7.9|171|96
+115|Space Raiders|Sci-Fi|8.1|178|99
+116|Digital Universe|Sci-Fi|8.2|185|51
+117|Cyber Nexus|Sci-Fi|8.4|192|54
+118|The Singularity|Sci-Fi|8.6|199|57
+119|Quantum Shift|Sci-Fi|8.8|85|60
+120|Neural Code|Sci-Fi|5.5|92|63
+121|Parallel Universe X|Sci-Fi|5.7|99|66
+122|Time Fracture|Sci-Fi|5.9|106|69
+123|Star System Alpha|Sci-Fi|6|113|72
+124|Cosmic Horizon|Sci-Fi|6.2|120|75
+125|Space Protocol|Sci-Fi|6.4|127|78
+126|Stellar Mission|Sci-Fi|6.6|134|81
+127|Galactic Storm|Sci-Fi|6.8|141|84
+128|Dark Nebula|Sci-Fi|7|148|87
+129|Void Patrol|Sci-Fi|7.2|155|90
+130|Time Warp X|Sci-Fi|7.3|162|93
+131|Cyber Frontier|Sci-Fi|7.5|169|96
+132|Neural Network Z|Sci-Fi|7.7|176|99
+133|Quantum Effect|Sci-Fi|7.9|183|51
+134|Star Command|Sci-Fi|8.1|190|54
+135|Space Force Alpha|Sci-Fi|8.2|197|57
+136|Cosmic Raiders|Sci-Fi|8.4|83|60
+137|Nebula War|Sci-Fi|8.6|90|63
+138|Galaxy Drift|Sci-Fi|8.8|97|66
+139|Time Jump|Sci-Fi|5.5|104|69
+140|Star Fleet|Sci-Fi|5.7|111|72
+141|Void Storm|Sci-Fi|5.9|118|75
+142|Cosmic Engine|Sci-Fi|6|125|78
+143|Dark Star Rising|Sci-Fi|6.2|132|81
+144|Galactic Fleet|Sci-Fi|6.4|139|84
+145|Space Invaders X|Sci-Fi|6.6|146|87
+146|Stellar Protocol|Sci-Fi|6.8|153|90
+147|Nebula Code|Sci-Fi|7|160|93
+148|Time Paradox|Sci-Fi|7.2|167|96
+149|Quantum Storm|Sci-Fi|7.3|174|99
+150|Star Light|Sci-Fi|7.5|181|51
+151|Cosmic Force|Sci-Fi|7.7|188|54
+152|Dark Galaxy|Sci-Fi|7.9|195|57
+153|Space Siege|Sci-Fi|8.1|81|60
+154|Stellar War|Sci-Fi|8.2|88|63
+155|Galactic Protocol|Sci-Fi|8.4|95|66
+156|Time Horizon|Sci-Fi|8.6|102|69
+157|Quantum Void|Sci-Fi|8.8|109|72
+158|Star Chase|Sci-Fi|5.5|116|75
+159|Nebula Force|Sci-Fi|5.7|123|78
+160|Cosmic Raid|Sci-Fi|5.9|130|81
+161|Space Nation|Sci-Fi|6|137|84
+162|Stellar Drift|Sci-Fi|6.2|144|87
+163|Dark Universe|Sci-Fi|6.4|151|90
+164|Galaxy Protocol|Sci-Fi|6.6|158|93
+165|Time Code|Sci-Fi|6.8|165|96
+166|Quantum Force|Sci-Fi|7|172|99
+167|Star Siege|Sci-Fi|7.2|179|51
+168|Nebula Hunt|Sci-Fi|7.3|186|54
+169|Cosmic Protocol|Sci-Fi|7.5|193|57
+170|Space Warrior|Sci-Fi|7.7|200|60
+171|Stellar Storm|Sci-Fi|7.9|86|63
+172|Dark Force Rising|Sci-Fi|8.1|93|66
+173|Galactic Siege|Sci-Fi|8.2|100|69
+174|Time Warrior|Sci-Fi|8.4|107|72
+175|Quantum Raiders|Sci-Fi|8.6|114|75
+176|Star Nation|Sci-Fi|8.8|121|78
+177|Nebula Protocol|Sci-Fi|5.5|128|81
+178|Cosmic Warrior|Sci-Fi|5.7|135|84
+179|Space Fleet|Sci-Fi|5.9|142|87
+180|Stellar Code|Sci-Fi|6|149|90
+181|Dark Horizon|Sci-Fi|6.2|156|93
+182|Galaxy Force|Sci-Fi|6.4|163|96
+183|Time Siege|Sci-Fi|6.6|170|99
+184|Quantum Nation|Sci-Fi|6.8|177|51
+185|Star Protocol|Sci-Fi|7|184|54
+186|Nebula Drift|Sci-Fi|7.2|191|57
+187|Cosmic Nation|Sci-Fi|7.3|198|60
+188|Space Void|Sci-Fi|7.5|84|63
+189|Stellar Horizon|Sci-Fi|7.7|91|66
+190|Dark Protocol|Sci-Fi|7.9|98|69
+191|Galaxy Storm|Sci-Fi|8.1|105|72
+192|Time Force|Sci-Fi|8.2|112|75
+193|Quantum Protocol|Sci-Fi|8.4|119|78
+194|Star Drift|Sci-Fi|8.6|126|81
+195|Nebula Nation|Sci-Fi|8.8|133|84
+196|Cosmic Code|Sci-Fi|5.5|140|87
+197|Space Protocol 2|Sci-Fi|5.7|147|90
+198|Stellar Nation|Sci-Fi|5.9|154|93
+199|Dark Drift|Sci-Fi|6|161|96
+200|Galaxy Nation|Sci-Fi|6.2|168|99
+201|A Hearts Journey|Drama|6.5|80|64
+202|The Last Goodbye|Drama|6.6|87|67
+203|Broken Wings|Drama|6.8|94|70
+204|Silent Tears|Drama|6.9|101|73
+205|Forgotten Dreams|Drama|7.1|108|76
+206|The Price of Love|Drama|7.2|115|79
+207|Empty Chairs|Drama|7.3|122|82
+208|A Life Worth Living|Drama|7.5|129|85
+209|The Long Road Home|Drama|7.6|136|88
+210|Shattered Glass|Drama|7.8|143|91
+211|Between Two Worlds|Drama|7.9|150|94
+212|The Last Chapter|Drama|8|157|97
+213|Home Again|Drama|8.2|164|100
+214|A Perfect Storm|Drama|8.3|171|52
+215|The Weight of Words|Drama|8.4|178|55
+216|Pieces of Yesterday|Drama|8.6|185|58
+217|After the Rain|Drama|8.7|192|61
+218|A Place Called Hope|Drama|8.9|199|64
+219|The Quiet Storm|Drama|9|85|67
+220|Voices in the Wind|Drama|6.5|92|70
+221|Crossroads|Drama|6.6|99|73
+222|The Art of Letting Go|Drama|6.8|106|76
+223|A Second Chance|Drama|6.9|113|79
+224|Beyond Tomorrow|Drama|7.1|120|82
+225|The Truth About Family|Drama|7.2|127|85
+226|Fragile Bonds|Drama|7.3|134|88
+227|Lost in Translation|Drama|7.5|141|91
+228|Finding Balance|Drama|7.6|148|94
+229|The Last Letter|Drama|7.8|155|97
+230|A New Beginning|Drama|7.9|162|100
+231|Unspoken Words|Drama|8|169|52
+232|The Road Not Taken|Drama|8.2|176|55
+233|Finding Home|Drama|8.3|183|58
+234|The Quiet Life|Drama|8.4|190|61
+235|A Simple Story|Drama|8.6|197|64
+236|Beyond the Horizon|Drama|8.7|83|67
+237|Lost and Found Again|Drama|8.9|90|70
+238|The Old Man|Drama|9|97|73
+239|A Different Kind of Love|Drama|6.5|104|76
+240|When Stars Align|Drama|6.6|111|79
+241|The Memory Keeper|Drama|6.8|118|82
+242|Finding Purpose|Drama|6.9|125|85
+243|A Perfect Life|Drama|7.1|132|88
+244|The Long Goodbye|Drama|7.2|139|91
+245|Between Hope and Fear|Drama|7.3|146|94
+246|The Forgotten One|Drama|7.5|153|97
+247|A Broken Promise|Drama|7.6|160|100
+248|The Gift of Time|Drama|7.8|167|52
+249|Finding Light|Drama|7.9|174|55
+250|The Last Dance|Drama|8|181|58
+251|When Love Arrives|Drama|8.2|188|61
+252|A World Apart|Drama|8.3|195|64
+253|The Silent Partner|Drama|8.4|81|67
+254|Beyond Silence|Drama|8.6|88|70
+255|A Different Hero|Drama|8.7|95|73
+256|The Honest Truth|Drama|8.9|102|76
+257|Lost in Silence|Drama|9|109|79
+258|A Better Tomorrow|Drama|6.5|116|82
+259|The Long Journey|Drama|6.6|123|85
+260|Finding Peace|Drama|6.8|130|88
+261|The Broken Road|Drama|6.9|137|91
+262|When Hearts Heal|Drama|7.1|144|94
+263|A Changed World|Drama|7.2|151|97
+264|The Last Friend|Drama|7.3|158|100
+265|Beyond Recovery|Drama|7.5|165|52
+266|A Different Truth|Drama|7.6|172|55
+267|The Quiet Hero|Drama|7.8|179|58
+268|Lost in Love|Drama|7.9|186|61
+269|A Better Day|Drama|8|193|64
+270|The Long Wait|Drama|8.2|200|67
+271|When We Were Young|Drama|8.3|86|70
+272|A Chance Meeting|Drama|8.4|93|73
+273|The Last Hope|Drama|8.6|100|76
+274|Beyond the Past|Drama|8.7|107|79
+275|A New Path|Drama|8.9|114|82
+276|The Quiet Revolution|Drama|9|121|85
+277|Finding Freedom|Drama|6.5|128|88
+278|Lost in Time|Drama|6.6|135|91
+279|A Better World|Drama|6.8|142|94
+280|The Long Night|Drama|6.9|149|97
+281|When Courage Fails|Drama|7.1|156|100
+282|A Strange Gift|Drama|7.2|163|52
+283|The Last Memory|Drama|7.3|170|55
+284|Beyond the Wall|Drama|7.5|177|58
+285|A New Life|Drama|7.6|184|61
+286|The Quiet Storm 2|Drama|7.8|191|64
+287|Finding Grace|Drama|7.9|198|67
+288|Lost in Dreams|Drama|8|84|70
+289|A Better Life|Drama|8.2|91|73
+290|The Long Walk|Drama|8.3|98|76
+291|When Everything Changes|Drama|8.4|105|79
+292|A Perfect World|Drama|8.6|112|82
+293|The Last Stand of Love|Drama|8.7|119|85
+294|Beyond the Bridge|Drama|8.9|126|88
+295|A New Day|Drama|9|133|91
+296|The Quiet Life 2|Drama|6.5|140|94
+297|Finding Strength|Drama|6.6|147|97
+298|Lost in Hope|Drama|6.8|154|100
+299|A Better Place|Drama|6.9|161|52
+300|The Journey|Drama|7.1|168|55
+301|Dark Secrets|Thriller|6|80|71
+302|The Conspiracy|Thriller|6.2|87|74
+303|Deadly Silence|Thriller|6.3|94|77
+304|Hidden Agenda|Thriller|6.4|101|80
+305|The Final Warning|Thriller|6.6|108|83
+306|Shadow Protocol|Thriller|6.8|115|86
+307|Dangerous Game|Thriller|6.9|122|89
+308|The Last Clue|Thriller|7|129|92
+309|Deadly Pursuit|Thriller|7.2|136|95
+310|The Hidden Truth|Thriller|7.4|143|98
+311|Dark Conspiracy|Thriller|7.5|150|50
+312|The Waiting Game|Thriller|7.6|157|53
+313|Lethal Silence|Thriller|7.8|164|56
+314|Hidden Signal|Thriller|8|171|59
+315|The Final Countdown|Thriller|8.1|178|62
+316|Shadow Hunt|Thriller|8.2|185|65
+317|Dangerous Silence|Thriller|8.4|192|68
+318|The Last Warning|Thriller|8.5|199|71
+319|Deadly Agenda|Thriller|8.7|85|74
+320|The Hidden Game|Thriller|6|92|77
+321|Dark Pursuit X|Thriller|6.2|99|80
+322|The Conspiracy Files|Thriller|6.3|106|83
+323|Lethal Game|Thriller|6.4|113|86
+324|Hidden Protocol|Thriller|6.6|120|89
+325|The Final Clue|Thriller|6.8|127|92
+326|Shadow Agenda|Thriller|6.9|134|95
+327|Dangerous Pursuit|Thriller|7|141|98
+328|The Last Signal|Thriller|7.2|148|50
+329|Deadly Countdown|Thriller|7.4|155|53
+330|The Hidden Clue|Thriller|7.5|162|56
+331|Dark Game|Thriller|7.6|169|59
+332|The Conspiracy Hunt|Thriller|7.8|176|62
+333|Lethal Protocol|Thriller|8|183|65
+334|Hidden Warning|Thriller|8.1|190|68
+335|The Final Signal|Thriller|8.2|197|71
+336|Shadow Clue|Thriller|8.4|83|74
+337|Dangerous Countdown|Thriller|8.5|90|77
+338|The Last Game|Thriller|8.7|97|80
+339|Deadly Signal|Thriller|6|104|83
+340|The Hidden Protocol|Thriller|6.2|111|86
+341|Dark Silence|Thriller|6.3|118|89
+342|The Conspiracy Protocol|Thriller|6.4|125|92
+343|Lethal Warning|Thriller|6.6|132|95
+344|Hidden Clue|Thriller|6.8|139|98
+345|The Final Game|Thriller|6.9|146|50
+346|Shadow Signal|Thriller|7|153|53
+347|Dangerous Warning|Thriller|7.2|160|56
+348|The Last Clue 2|Thriller|7.4|167|59
+349|Deadly Protocol|Thriller|7.5|174|62
+350|The Hidden Signal 2|Thriller|7.6|181|65
+351|Dark Warning|Thriller|7.8|188|68
+352|The Conspiracy Game|Thriller|8|195|71
+353|Lethal Countdown|Thriller|8.1|81|74
+354|Hidden Hunt|Thriller|8.2|88|77
+355|The Final Protocol|Thriller|8.4|95|80
+356|Shadow Warning|Thriller|8.5|102|83
+357|Dangerous Signal|Thriller|8.7|109|86
+358|The Last Protocol|Thriller|6|116|89
+359|Deadly Warning|Thriller|6.2|123|92
+360|The Hidden Countdown|Thriller|6.3|130|95
+361|Dark Protocol X|Thriller|6.4|137|98
+362|The Conspiracy Signal|Thriller|6.6|144|50
+363|Lethal Hunt|Thriller|6.8|151|53
+364|Hidden Countdown|Thriller|6.9|158|56
+365|The Final Hunt|Thriller|7|165|59
+366|Shadow Countdown|Thriller|7.2|172|62
+367|Dangerous Game 2|Thriller|7.4|179|65
+368|The Last Hunt|Thriller|7.5|186|68
+369|Deadly Hunt|Thriller|7.6|193|71
+370|The Hidden Warning 2|Thriller|7.8|200|74
+371|Dark Countdown|Thriller|8|86|77
+372|The Conspiracy Warning|Thriller|8.1|93|80
+373|Lethal Signal|Thriller|8.2|100|83
+374|Hidden Signal 2|Thriller|8.4|107|86
+375|The Final Countdown 2|Thriller|8.5|114|89
+376|Shadow Hunt 2|Thriller|8.7|121|92
+377|Dangerous Protocol|Thriller|6|128|95
+378|The Last Countdown|Thriller|6.2|135|98
+379|Deadly Countdown 2|Thriller|6.3|142|50
+380|The Hidden Hunt|Thriller|6.4|149|53
+381|Dark Hunt|Thriller|6.6|156|56
+382|The Conspiracy Countdown|Thriller|6.8|163|59
+383|Lethal Agenda|Thriller|6.9|170|62
+384|Hidden Agenda 2|Thriller|7|177|65
+385|The Final Agenda|Thriller|7.2|184|68
+386|Shadow Protocol 2|Thriller|7.4|191|71
+387|Dangerous Clue|Thriller|7.5|198|74
+388|The Last Protocol 2|Thriller|7.6|84|77
+389|Deadly Game 2|Thriller|7.8|91|80
+390|The Hidden Agenda|Thriller|8|98|83
+391|Dark Agenda|Thriller|8.1|105|86
+392|The Conspiracy Clue|Thriller|8.2|112|89
+393|Lethal Clue|Thriller|8.4|119|92
+394|Hidden Game 2|Thriller|8.5|126|95
+395|The Final Pursuit|Thriller|8.7|133|98
+396|Shadow Pursuit|Thriller|6|140|50
+397|Dangerous Hunt|Thriller|6.2|147|53
+398|The Last Agenda|Thriller|6.3|154|56
+399|Deadly Agenda 2|Thriller|6.4|161|59
+400|Shadow Game|Thriller|6.6|168|62
+401|The Big Mess|Comedy|5.5|80|78
+402|Family Chaos|Comedy|5.6|87|81
+403|Office Madness|Comedy|5.8|94|84
+404|Wedding Disaster|Comedy|5.9|101|87
+405|The Funny Side|Comedy|6.1|108|90
+406|Lifes a Joke|Comedy|6.2|115|93
+407|Happy Accidents|Comedy|6.3|122|96
+408|The Comedy of Errors|Comedy|6.5|129|99
+409|Laugh Out Loud|Comedy|6.6|136|51
+410|Weekend Warriors|Comedy|6.8|143|54
+411|Funny Business|Comedy|6.9|150|57
+412|The Odd Couple Returns|Comedy|7|157|60
+413|Life Goes On|Comedy|7.2|164|63
+414|Happy Go Lucky|Comedy|7.3|171|66
+415|The Funniest Day|Comedy|7.4|178|69
+416|Crazy Family|Comedy|7.6|185|72
+417|Office Comedy|Comedy|7.7|192|75
+418|Wedding Chaos|Comedy|7.9|199|78
+419|The Light Side|Comedy|8|85|81
+420|Life in Pieces|Comedy|5.5|92|84
+421|Happy Trails|Comedy|5.6|99|87
+422|Accident Prone|Comedy|5.8|106|90
+423|The Comedy Club|Comedy|5.9|113|93
+424|Laugh Factory|Comedy|6.1|120|96
+425|Weekend Fun|Comedy|6.2|127|99
+426|Funny Farm|Comedy|6.3|134|51
+427|The Odd Job|Comedy|6.5|141|54
+428|Life is Strange|Comedy|6.6|148|57
+429|Happy Ending|Comedy|6.8|155|60
+430|Crazy Couple|Comedy|6.9|162|63
+431|Office Space 2|Comedy|7|169|66
+432|Wedding Plans|Comedy|7.2|176|69
+433|The Bright Side|Comedy|7.3|183|72
+434|Lifes Adventure|Comedy|7.4|190|75
+435|Happy Days|Comedy|7.6|197|78
+436|Accident Zone|Comedy|7.7|83|81
+437|The Comedy Hour|Comedy|7.9|90|84
+438|Laugh Attack|Comedy|8|97|87
+439|Weekend Crisis|Comedy|5.5|104|90
+440|Funny Money|Comedy|5.6|111|93
+441|The Odd Man Out|Comedy|5.8|118|96
+442|Life is Good|Comedy|5.9|125|99
+443|Happy Together|Comedy|6.1|132|51
+444|Crazy Plans|Comedy|6.2|139|54
+445|Office Party|Comedy|6.3|146|57
+446|Wedding Bells|Comedy|6.5|153|60
+447|The Fun Side|Comedy|6.6|160|63
+448|Lifes Comedy|Comedy|6.8|167|66
+449|Happy Campers|Comedy|6.9|174|69
+450|Accident Report|Comedy|7|181|72
+451|The Comedy Show|Comedy|7.2|188|75
+452|Laugh Riot|Comedy|7.3|195|78
+453|Weekend Warrior|Comedy|7.4|81|81
+454|Funny Family|Comedy|7.6|88|84
+455|The Odd Woman Out|Comedy|7.7|95|87
+456|Life is Beautiful|Comedy|7.9|102|90
+457|Happy Holidays|Comedy|8|109|93
+458|Crazy Weekend|Comedy|5.5|116|96
+459|Office Clown|Comedy|5.6|123|99
+460|Wedding Fever|Comedy|5.8|130|51
+461|The Silly Side|Comedy|5.9|137|54
+462|Life Goes On 2|Comedy|6.1|144|57
+463|Happy Trails 2|Comedy|6.2|151|60
+464|Accident City|Comedy|6.3|158|63
+465|The Comedy Festival|Comedy|6.5|165|66
+466|Laugh Track|Comedy|6.6|172|69
+467|Weekend Warrior 2|Comedy|6.8|179|72
+468|Funny Business 2|Comedy|6.9|186|75
+469|The Odd Couple 2|Comedy|7|193|78
+470|Life is Strange 2|Comedy|7.2|200|81
+471|Happy Go Lucky 2|Comedy|7.3|86|84
+472|Crazy Family 2|Comedy|7.4|93|87
+473|Office Fun|Comedy|7.6|100|90
+474|Wedding Surprise|Comedy|7.7|107|93
+475|The Funny Couple|Comedy|7.9|114|96
+476|Lifes a Mess|Comedy|8|121|99
+477|Happy Hours|Comedy|5.5|128|51
+478|Accident Street|Comedy|5.6|135|54
+479|The Comedy Night|Comedy|5.8|142|57
+480|Laugh Zone|Comedy|5.9|149|60
+481|Weekend Party|Comedy|6.1|156|63
+482|Funny Moments|Comedy|6.2|163|66
+483|The Odd Family|Comedy|6.3|170|69
+484|Life is Comedy|Comedy|6.5|177|72
+485|Happy Returns|Comedy|6.6|184|75
+486|Crazy Weekend 2|Comedy|6.8|191|78
+487|Office Chaos|Comedy|6.9|198|81
+488|Wedding Woes|Comedy|7|84|84
+489|The Light Comedy|Comedy|7.2|91|87
+490|Life Goes Well|Comedy|7.3|98|90
+491|Happy Days 2|Comedy|7.4|105|93
+492|Accident Zone 2|Comedy|7.6|112|96
+493|The Comedy World|Comedy|7.7|119|99
+494|Laugh Chance|Comedy|7.9|126|51
+495|Weekend Chaos|Comedy|8|133|54
+496|Funny Games|Comedy|5.5|140|57
+497|The Odd Day|Comedy|5.6|147|60
+498|Life is Wild|Comedy|5.8|154|63
+499|Happy Together 2|Comedy|5.9|161|66
+500|Crazy Times|Comedy|6.1|168|69
+501|Love at First Sight|Romance|6|80|85
+502|A Perfect Match|Romance|6.1|87|88
+503|The Last Valentine|Romance|6.2|94|91
+504|Falling for You|Romance|6.4|101|94
+505|A Love Story|Romance|6.5|108|97
+506|Hearts Desire|Romance|6.6|115|100
+507|When Love Blooms|Romance|6.7|122|52
+508|The First Dance|Romance|6.9|129|55
+509|A Perfect Romance|Romance|7|136|58
+510|Love Unlimited|Romance|7.1|143|61
+511|Heart and Soul|Romance|7.2|150|64
+512|When We First Met|Romance|7.3|157|67
+513|The Love Story|Romance|7.5|164|70
+514|A Perfect Dream|Romance|7.6|171|73
+515|Falling in Love|Romance|7.7|178|76
+516|A Sweet Romance|Romance|7.8|185|79
+517|Heart Strings|Romance|8|192|82
+518|When Love Returns|Romance|8.1|199|85
+519|The Last Romance|Romance|8.2|85|88
+520|A Perfect Love|Romance|6|92|91
+521|Love Everlasting|Romance|6.1|99|94
+522|Hearts Journey|Romance|6.2|106|97
+523|When Stars Fall|Romance|6.4|113|100
+524|The Sweet Life|Romance|6.5|120|52
+525|A Romance to Remember|Romance|6.6|127|55
+526|Love Blooms Again|Romance|6.7|134|58
+527|Hearts Calling|Romance|6.9|141|61
+528|When Love Strikes|Romance|7|148|64
+529|The Perfect Kiss|Romance|7.1|155|67
+530|A Sweet Love|Romance|7.2|162|70
+531|Love Conquers All|Romance|7.3|169|73
+532|Hearts Delight|Romance|7.5|176|76
+533|When Love Calls|Romance|7.6|183|79
+534|The Romance Code|Romance|7.7|190|82
+535|A Sweet Serenade|Romance|7.8|197|85
+536|Love Prevails|Romance|8|83|88
+537|Hearts Flame|Romance|8.1|90|91
+538|When Love Speaks|Romance|8.2|97|94
+539|The First Love|Romance|6|104|97
+540|A Romance Story|Romance|6.1|111|100
+541|Loves Second Chance|Romance|6.2|118|52
+542|Hearts Song|Romance|6.4|125|55
+543|When Two Worlds Meet|Romance|6.5|132|58
+544|The Love Quest|Romance|6.6|139|61
+545|A Perfect Valentine|Romance|6.7|146|64
+546|Love Rekindled|Romance|6.9|153|67
+547|Hearts Whisper|Romance|7|160|70
+548|When Love Finds You|Romance|7.1|167|73
+549|The Last Kiss|Romance|7.2|174|76
+550|A Sweet Couple|Romance|7.3|181|79
+551|Love on the Road|Romance|7.5|188|82
+552|Hearts Adventure|Romance|7.6|195|85
+553|When Love Waits|Romance|7.7|81|88
+554|The Perfect Couple|Romance|7.8|88|91
+555|A Sweet Moment|Romance|8|95|94
+556|Love Across Time|Romance|8.1|102|97
+557|Hearts Echo|Romance|8.2|109|100
+558|When Love Wakes|Romance|6|116|52
+559|The First Meeting|Romance|6.1|123|55
+560|A Romance Adventure|Romance|6.2|130|58
+561|Love Never Dies|Romance|6.4|137|61
+562|Hearts Light|Romance|6.5|144|64
+563|When Love Dawns|Romance|6.6|151|67
+564|The Perfect Day|Romance|6.7|158|70
+565|A Sweet Escape|Romance|6.9|165|73
+566|Love in the City|Romance|7|172|76
+567|Hearts Surprise|Romance|7.1|179|79
+568|When Love Grows|Romance|7.2|186|82
+569|The Last Dance of Love|Romance|7.3|193|85
+570|A Romance Journey|Romance|7.5|200|88
+571|Love Blossoms|Romance|7.6|86|91
+572|Hearts Wonder|Romance|7.7|93|94
+573|When Love Shines|Romance|7.8|100|97
+574|The Perfect Romance|Romance|8|107|100
+575|A Sweet Victory|Romance|8.1|114|52
+576|Love at the Corner|Romance|8.2|121|55
+577|Hearts Peace|Romance|6|128|58
+578|When Love Begins|Romance|6.1|135|61
+579|The First Romance|Romance|6.2|142|64
+580|A Sweet Life|Romance|6.4|149|67
+581|Love Beyond|Romance|6.5|156|70
+582|Hearts Truth|Romance|6.6|163|73
+583|When Love Is Kind|Romance|6.7|170|76
+584|The Perfect Life|Romance|6.9|177|79
+585|A Sweet Dream|Romance|7|184|82
+586|Love Returns|Romance|7.1|191|85
+587|Hearts Memory|Romance|7.2|198|88
+588|When Love Is Strong|Romance|7.3|84|91
+589|The First Valentine|Romance|7.5|91|94
+590|A Sweet Story|Romance|7.6|98|97
+591|Love Is Grand|Romance|7.7|105|100
+592|Hearts Vision|Romance|7.8|112|52
+593|When Love Is True|Romance|8|119|55
+594|The Perfect Heart|Romance|8.1|126|58
+595|A Sweet Promise|Romance|8.2|133|61
+596|Love Wins|Romance|6|140|64
+597|Hearts Gift|Romance|6.1|147|67
+598|When Love Is Real|Romance|6.2|154|70
+599|The Last Romance 2|Romance|6.4|161|73
+600|Sweet Harmony|Romance|6.5|168|76
+601|The Magic Kingdom|Animation|6.5|80|92
+602|Adventure Land|Animation|6.6|87|95
+603|Dream World|Animation|6.8|94|98
+604|Fantasy Quest|Animation|6.9|101|50
+605|The Magic School|Animation|7|108|53
+606|Wonder Land|Animation|7.1|115|56
+607|Adventure Town|Animation|7.3|122|59
+608|Dream Adventure|Animation|7.4|129|62
+609|Fantasy Land|Animation|7.5|136|65
+610|The Magic City|Animation|7.6|143|68
+611|Wonder World|Animation|7.8|150|71
+612|Adventure Kingdom|Animation|7.9|157|74
+613|Dream Quest|Animation|8|164|77
+614|Fantasy Town|Animation|8.2|171|80
+615|The Magic World|Animation|8.3|178|83
+616|Wonder Kingdom|Animation|8.4|185|86
+617|Adventure City|Animation|8.5|192|89
+618|Dream Land|Animation|8.7|199|92
+619|Fantasy World|Animation|8.8|85|95
+620|The Magic Quest|Animation|6.5|92|98
+621|Wonder City|Animation|6.6|99|50
+622|Adventure World|Animation|6.8|106|53
+623|Dream Town|Animation|6.9|113|56
+624|Fantasy Kingdom|Animation|7|120|59
+625|The Magic Land|Animation|7.1|127|62
+626|Wonder Town|Animation|7.3|134|65
+627|Adventure Quest|Animation|7.4|141|68
+628|Dream Kingdom|Animation|7.5|148|71
+629|Fantasy City|Animation|7.6|155|74
+630|The Magic Adventure|Animation|7.8|162|77
+631|Wonder Quest|Animation|7.9|169|80
+632|Adventure Land 2|Animation|8|176|83
+633|Dream City|Animation|8.2|183|86
+634|Fantasy Adventure|Animation|8.3|190|89
+635|The Magic Town|Animation|8.4|197|92
+636|Wonder Adventure|Animation|8.5|83|95
+637|Adventure Kingdom 2|Animation|8.7|90|98
+638|Dream Town 2|Animation|8.8|97|50
+639|Fantasy Quest 2|Animation|6.5|104|53
+640|The Magic Kingdom 2|Animation|6.6|111|56
+641|Wonder Land 2|Animation|6.8|118|59
+642|Adventure City 2|Animation|6.9|125|62
+643|Dream World 2|Animation|7|132|65
+644|Fantasy Land 2|Animation|7.1|139|68
+645|The Magic City 2|Animation|7.3|146|71
+646|Wonder World 2|Animation|7.4|153|74
+647|Adventure Town 2|Animation|7.5|160|77
+648|Dream Adventure 2|Animation|7.6|167|80
+649|Fantasy Town 2|Animation|7.8|174|83
+650|The Magic World 2|Animation|7.9|181|86
+651|Wonder Kingdom 2|Animation|8|188|89
+652|Adventure World 2|Animation|8.2|195|92
+653|Dream Quest 2|Animation|8.3|81|95
+654|Fantasy World 2|Animation|8.4|88|98
+655|The Magic Quest 2|Animation|8.5|95|50
+656|Wonder City 2|Animation|8.7|102|53
+657|Adventure Quest 2|Animation|8.8|109|56
+658|Dream Land 2|Animation|6.5|116|59
+659|Fantasy Kingdom 2|Animation|6.6|123|62
+660|The Magic Land 2|Animation|6.8|130|65
+661|Wonder Town 2|Animation|6.9|137|68
+662|Adventure Quest 3|Animation|7|144|71
+663|Dream Kingdom 2|Animation|7.1|151|74
+664|Fantasy City 2|Animation|7.3|158|77
+665|The Magic Adventure 2|Animation|7.4|165|80
+666|Wonder Quest 2|Animation|7.5|172|83
+667|Adventure Land 3|Animation|7.6|179|86
+668|Dream City 2|Animation|7.8|186|89
+669|Fantasy Adventure 2|Animation|7.9|193|92
+670|The Magic Town 2|Animation|8|200|95
+671|Wonder Adventure 2|Animation|8.2|86|98
+672|Adventure Kingdom 3|Animation|8.3|93|50
+673|Dream Town 3|Animation|8.4|100|53
+674|Fantasy Quest 3|Animation|8.5|107|56
+675|The Magic Kingdom 3|Animation|8.7|114|59
+676|Wonder Land 3|Animation|8.8|121|62
+677|Adventure City 3|Animation|6.5|128|65
+678|Dream World 3|Animation|6.6|135|68
+679|Fantasy Land 3|Animation|6.8|142|71
+680|The Magic City 3|Animation|6.9|149|74
+681|Wonder World 3|Animation|7|156|77
+682|Adventure Town 3|Animation|7.1|163|80
+683|Dream Adventure 3|Animation|7.3|170|83
+684|Fantasy Town 3|Animation|7.4|177|86
+685|The Magic World 3|Animation|7.5|184|89
+686|Wonder Kingdom 3|Animation|7.6|191|92
+687|Adventure World 3|Animation|7.8|198|95
+688|Dream Quest 3|Animation|7.9|84|98
+689|Fantasy World 3|Animation|8|91|50
+690|The Magic Quest 3|Animation|8.2|98|53
+691|Wonder City 3|Animation|8.3|105|56
+692|Adventure Quest 4|Animation|8.4|112|59
+693|Dream Land 3|Animation|8.5|119|62
+694|Fantasy Kingdom 3|Animation|8.7|126|65
+695|The Magic Land 3|Animation|8.8|133|68
+696|Wonder Town 3|Animation|6.5|140|71
+697|Adventure Quest 5|Animation|6.6|147|74
+698|Dream Kingdom 3|Animation|6.8|154|77
+699|Fantasy City 3|Animation|6.9|161|80
+700||Animation|7|168|83
+701|The Lost Expedition|Adventure|6|80|99
+702|Into the Wild|Adventure|6.1|87|51
+703|Jungle Quest|Adventure|6.3|94|54
+704|Mountain Challenge|Adventure|6.4|101|57
+705|Ocean Explorer|Adventure|6.6|108|60
+706|Desert Journey|Adventure|6.7|115|63
+707|Arctic Adventure|Adventure|6.8|122|66
+708|Tropical Quest|Adventure|7|129|69
+709|River Runner|Adventure|7.1|136|72
+710|Forest Explorer|Adventure|7.2|143|75
+711|The Lost Tribe|Adventure|7.4|150|78
+712|Wilderness Survivor|Adventure|7.5|157|81
+713|Cave Explorer|Adventure|7.7|164|84
+714|Island Adventure|Adventure|7.8|171|87
+715|Mountain Peak|Adventure|7.9|178|90
+716|Ocean Dive|Adventure|8.1|185|93
+717|Desert Trek|Adventure|8.2|192|96
+718|Arctic Mission|Adventure|8.4|199|99
+719|Tropical Island|Adventure|8.5|85|51
+720|River Explorer|Adventure|6|92|54
+721|The Lost World|Adventure|6.1|99|57
+722|Wilderness Challenge|Adventure|6.3|106|60
+723|Cave Diver|Adventure|6.4|113|63
+724|Island Quest|Adventure|6.6|120|66
+725|Mountain Climber|Adventure|6.7|127|69
+726|Ocean Quest|Adventure|6.8|134|72
+727|Desert Challenge|Adventure|7|141|75
+728|Arctic Explorer|Adventure|7.1|148|78
+729|Tropical Adventure|Adventure|7.2|155|81
+730|River Quest|Adventure|7.4|162|84
+731|The Lost City|Adventure|7.5|169|87
+732|Wilderness Quest|Adventure|7.7|176|90
+733|Cave Adventure|Adventure|7.8|183|93
+734|Island Challenge|Adventure|7.9|190|96
+735|Mountain Explorer|Adventure|8.1|197|99
+736|Ocean Adventure|Adventure|8.2|83|51
+737|Desert Explorer|Adventure|8.4|90|54
+738|Arctic Quest|Adventure|8.5|97|57
+739|Tropical Challenge|Adventure|6|104|60
+740|River Adventure|Adventure|6.1|111|63
+741|The Lost Temple|Adventure|6.3|118|66
+742|Wilderness Explorer|Adventure|6.4|125|69
+743|Cave Quest|Adventure|6.6|132|72
+744|Island Explorer|Adventure|6.7|139|75
+745|Mountain Adventure|Adventure|6.8|146|78
+746|Ocean Challenge|Adventure|7|153|81
+747|Desert Quest|Adventure|7.1|160|84
+748|Arctic Challenge|Adventure|7.2|167|87
+749|Tropical Explorer|Adventure|7.4|174|90
+750|River Challenge|Adventure|7.5|181|93
+751|The Lost Ruins|Adventure|7.7|188|96
+752|Wilderness Adventure|Adventure|7.8|195|99
+753|Cave Explorer 2|Adventure|7.9|81|51
+754|Island Adventure 2|Adventure|8.1|88|54
+755|Mountain Quest|Adventure|8.2|95|57
+756|Ocean Explorer 2|Adventure|8.4|102|60
+757|Desert Adventure|Adventure|8.5|109|63
+758|Arctic Adventure 2|Adventure|6|116|66
+759|Tropical Quest 2|Adventure|6.1|123|69
+760|River Explorer 2|Adventure|6.3|130|72
+761|The Lost Treasure|Adventure|6.4|137|75
+762|Wilderness Quest 2|Adventure|6.6|144|78
+763|Cave Challenge|Adventure|6.7|151|81
+764|Island Quest 2|Adventure|6.8|158|84
+765|Mountain Challenge 2|Adventure|7|165|87
+766|Ocean Quest 2|Adventure|7.1|172|90
+767|Desert Adventure 2|Adventure|7.2|179|93
+768|Arctic Mission 2|Adventure|7.4|186|96
+769|Tropical Island 2|Adventure|7.5|193|99
+770|River Runner 2|Adventure|7.7|200|51
+771|The Lost Expedition 2|Adventure|7.8|86|54
+772|Wilderness Challenge 2|Adventure|7.9|93|57
+773|Cave Explorer 3|Adventure|8.1|100|60
+774|Island Adventure 3|Adventure|8.2|107|63
+775|Mountain Explorer 2|Adventure|8.4|114|66
+776|Ocean Adventure 2|Adventure|8.5|121|69
+777|Desert Trek 2|Adventure|6|128|72
+778|Arctic Explorer 2|Adventure|6.1|135|75
+779|Tropical Adventure 2|Adventure|6.3|142|78
+780|River Quest 2|Adventure|6.4|149|81
+781|The Lost Tribe 2|Adventure|6.6|156|84
+782|Wilderness Survivor 2|Adventure|6.7|163|87
+783|Cave Diver 2|Adventure|6.8|170|90
+784|Island Challenge 2|Adventure|7|177|93
+785|Mountain Peak 2|Adventure|7.1|184|96
+786|Ocean Dive 2|Adventure|7.2|191|99
+787|Desert Challenge 2|Adventure|7.4|198|51
+788|Arctic Quest 2|Adventure|7.5|84|54
+789|Tropical Challenge 2|Adventure|7.7|91|57
+790|River Adventure 2|Adventure|7.8|98|60
+791|The Lost World 2|Adventure|7.9|105|63
+792|Wilderness Explorer 2|Adventure|8.1|112|66
+793|Cave Quest 2|Adventure|8.2|119|69
+794|Island Explorer 2|Adventure|8.4|126|72
+795|Mountain Adventure 2|Adventure|8.5|133|75
+796|Ocean Challenge 2|Adventure|6|140|78
+797|Desert Quest 2|Adventure|6.1|147|81
+798|Arctic Challenge 2|Adventure|6.3|154|84
+799|Tropical Island 3|Adventure|6.4|161|87
+800|River Journey|Adventure|6.6|168|90
+801|The Haunting|Horror|5|80|55
+802|Dark Shadows|Horror|5.1|87|58
+803|Nightmare House|Horror|5.3|94|61
+804|Terror Night|Horror|5.4|101|64
+805|Ghostly Presence|Horror|5.6|108|67
+806|Cursed Land|Horror|5.7|115|70
+807|The Dark Entity|Horror|5.8|122|73
+808|Evil Within|Horror|6|129|76
+809|Phantom Scream|Horror|6.1|136|79
+810|Blood Moon|Horror|6.2|143|82
+811|The Shadow Being|Horror|6.4|150|85
+812|Dark Forest|Horror|6.5|157|88
+813|Nightmare City|Horror|6.7|164|91
+814|Terror Storm|Horror|6.8|171|94
+815|Ghostly Vision|Horror|6.9|178|97
+816|Cursed Hours|Horror|7.1|185|100
+817|The Dark Presence|Horror|7.2|192|52
+818|Evil Night|Horror|7.4|199|55
+819|Phantom Fear|Horror|7.5|85|58
+820|Blood River|Horror|5|92|61
+821|The Shadow Force|Horror|5.1|99|64
+822|Dark Mansion|Horror|5.3|106|67
+823|Nightmare Street|Horror|5.4|113|70
+824|Terror Rising|Horror|5.6|120|73
+825|Ghostly Call|Horror|5.7|127|76
+826|Cursed Zone|Horror|5.8|134|79
+827|The Dark Nightmare|Horror|6|141|82
+828|Evil Forest|Horror|6.1|148|85
+829|Phantom Night|Horror|6.2|155|88
+830|Blood Storm|Horror|6.4|162|91
+831|The Shadow Night|Horror|6.5|169|94
+832|Dark Entity|Horror|6.7|176|97
+833|Nightmare Force|Horror|6.8|183|100
+834|Terror Zone|Horror|6.9|190|52
+835|Ghostly Storm|Horror|7.1|197|55
+836|Cursed Night|Horror|7.2|83|58
+837|The Dark Vision|Horror|7.4|90|61
+838|Evil Presence|Horror|7.5|97|64
+839|Phantom Rising|Horror|5|104|67
+840|Blood City|Horror|5.1|111|70
+841|The Shadow Storm|Horror|5.3|118|73
+842|Dark Night|Horror|5.4|125|76
+843|Nightmare Zone|Horror|5.6|132|79
+844|Terror Night 2|Horror|5.7|139|82
+845|Ghostly Force|Horror|5.8|146|85
+846|Cursed Vision|Horror|6|153|88
+847|The Dark Storm|Horror|6.1|160|91
+848|Evil Zone|Horror|6.2|167|94
+849|Phantom Zone|Horror|6.4|174|97
+850|Blood Night|Horror|6.5|181|100
+851|The Shadow Zone|Horror|6.7|188|52
+852|Dark Rising|Horror|6.8|195|55
+853|Nightmare Night|Horror|6.9|81|58
+854|Terror Force|Horror|7.1|88|61
+855|Ghostly Zone|Horror|7.2|95|64
+856|Cursed Force|Horror|7.4|102|67
+857|The Dark Zone|Horror|7.5|109|70
+858|Evil Rising|Horror|5|116|73
+859|Phantom Storm|Horror|5.1|123|76
+860|Blood Zone|Horror|5.3|130|79
+861|The Shadow Force 2|Horror|5.4|137|82
+862|Dark Force|Horror|5.6|144|85
+863|Nightmare Rising|Horror|5.7|151|88
+864|Terror Vision|Horror|5.8|158|91
+865|Ghostly Night|Horror|6|165|94
+866|Cursed Rising|Horror|6.1|172|97
+867|The Dark Force|Horror|6.2|179|100
+868|Evil Storm|Horror|6.4|186|52
+869|Phantom Vision|Horror|6.5|193|55
+870|Blood Rising|Horror|6.7|200|58
+871|The Shadow Rising|Horror|6.8|86|61
+872|Dark Storm|Horror|6.9|93|64
+873|Nightmare Vision|Horror|7.1|100|67
+874|Terror Storm 2|Horror|7.2|107|70
+875|Ghostly Rising|Horror|7.4|114|73
+876|Cursed Storm|Horror|7.5|121|76
+877|The Dark Rising|Horror|5|128|79
+878|Evil Vision|Horror|5.1|135|82
+879|Phantom Force|Horror|5.3|142|85
+880|Blood Vision|Horror|5.4|149|88
+881|The Shadow Vision|Horror|5.6|156|91
+882|Dark Vision|Horror|5.7|163|94
+883|Nightmare Storm|Horror|5.8|170|97
+884|Terror Rising 2|Horror|6|177|100
+885|Ghostly Vision 2|Horror|6.1|184|52
+886|Cursed Zone 2|Horror|6.2|191|55
+887|The Dark Night|Horror|6.4|198|58
+888|Evil Night 2|Horror|6.5|84|61
+889|Phantom Night 2|Horror|6.7|91|64
+890|Blood Night 2|Horror|6.8|98|67
+891|The Shadow Night 2|Horror|6.9|105|70
+892|Dark Night 2|Horror|7.1|112|73
+893|Nightmare Night 2|Horror|7.2|119|76
+894|Terror Zone 2|Horror|7.4|126|79
+895|Ghostly Night 2|Horror|7.5|133|82
+896|Cursed Night 2|Horror|5|140|85
+897|The Dark Night 2|Horror|5.1|147|88
+898|Shadow Entity|Horror|5.3|154|91
+899|Phantom Entity|Horror|5.4|161|94
+900||Horror|5.6|168|97
+901|The Dragon Kingdom|Fantasy|6|80|62
+902|Mystic Forest|Fantasy|6.2|87|65
+903|Enchanted Realm|Fantasy|6.3|94|68
+904|Crystal Cave|Fantasy|6.4|101|71
+905|Dragons Fire|Fantasy|6.6|108|74
+906|The Magic Sword|Fantasy|6.8|115|77
+907|Mystic Quest|Fantasy|6.9|122|80
+908|Enchanted Kingdom|Fantasy|7|129|83
+909|Crystal Dragon|Fantasy|7.2|136|86
+910|Dragons Call|Fantasy|7.4|143|89
+911|The Magic Kingdom X|Fantasy|7.5|150|92
+912|Mystic Land|Fantasy|7.6|157|95
+913|Enchanted Forest|Fantasy|7.8|164|98
+914|Crystal Quest|Fantasy|8|171|50
+915|Dragons Rise|Fantasy|8.1|178|53
+916|The Magic Realm|Fantasy|8.2|185|56
+917|Mystic Dragon|Fantasy|8.4|192|59
+918|Enchanted Cave|Fantasy|8.5|199|62
+919|Crystal Kingdom|Fantasy|8.7|85|65
+920|Dragons Legend|Fantasy|6|92|68
+921|The Magic Forest|Fantasy|6.2|99|71
+922|Mystic Kingdom|Fantasy|6.3|106|74
+923|Enchanted Quest|Fantasy|6.4|113|77
+924|Crystal Realm|Fantasy|6.6|120|80
+925|Dragons Quest|Fantasy|6.8|127|83
+926|The Magic Dragon|Fantasy|6.9|134|86
+927|Mystic Realm|Fantasy|7|141|89
+928|Enchanted Dragon|Fantasy|7.2|148|92
+929|Crystal Forest|Fantasy|7.4|155|95
+930|Dragons Kingdom|Fantasy|7.5|162|98
+931|The Magic Cave|Fantasy|7.6|169|50
+932|Mystic Cave|Fantasy|7.8|176|53
+933|Enchanted Realm 2|Fantasy|8|183|56
+934|Crystal Cave 2|Fantasy|8.1|190|59
+935|Dragons Fire 2|Fantasy|8.2|197|62
+936|The Magic Sword 2|Fantasy|8.4|83|65
+937|Mystic Quest 2|Fantasy|8.5|90|68
+938|Enchanted Kingdom 2|Fantasy|8.7|97|71
+939|Crystal Dragon 2|Fantasy|6|104|74
+940|Dragons Call 2|Fantasy|6.2|111|77
+941|The Magic Kingdom 3|Fantasy|6.3|118|80
+942|Mystic Land 2|Fantasy|6.4|125|83
+943|Enchanted Forest 2|Fantasy|6.6|132|86
+944|Crystal Quest 2|Fantasy|6.8|139|89
+945|Dragons Rise 2|Fantasy|6.9|146|92
+946|The Magic Realm 2|Fantasy|7|153|95
+947|Mystic Dragon 2|Fantasy|7.2|160|98
+948|Enchanted Cave 2|Fantasy|7.4|167|50
+949|Crystal Kingdom 2|Fantasy|7.5|174|53
+950|Dragons Legend 2|Fantasy|7.6|181|56
+951|The Magic Forest 2|Fantasy|7.8|188|59
+952|Mystic Kingdom 2|Fantasy|8|195|62
+953|Enchanted Quest 2|Fantasy|8.1|81|65
+954|Crystal Realm 2|Fantasy|8.2|88|68
+955|Dragons Quest 2|Fantasy|8.4|95|71
+956|The Magic Dragon 2|Fantasy|8.5|102|74
+957|Mystic Realm 2|Fantasy|8.7|109|77
+958|Enchanted Dragon 2|Fantasy|6|116|80
+959|Crystal Forest 2|Fantasy|6.2|123|83
+960|Dragons Kingdom 2|Fantasy|6.3|130|86
+961|The Magic Cave 2|Fantasy|6.4|137|89
+962|Mystic Cave 2|Fantasy|6.6|144|92
+963|Enchanted Realm 3|Fantasy|6.8|151|95
+964|Crystal Cave 3|Fantasy|6.9|158|98
+965|Dragons Fire 3|Fantasy|7|165|50
+966|The Magic Sword 3|Fantasy|7.2|172|53
+967|Mystic Quest 3|Fantasy|7.4|179|56
+968|Enchanted Kingdom 3|Fantasy|7.5|186|59
+969|Crystal Dragon 3|Fantasy|7.6|193|62
+970|Dragons Call 3|Fantasy|7.8|200|65
+971|The Magic Kingdom 4|Fantasy|8|86|68
+972|Mystic Land 3|Fantasy|8.1|93|71
+973|Enchanted Forest 3|Fantasy|8.2|100|74
+974|Crystal Quest 3|Fantasy|8.4|107|77
+975|Dragons Rise 3|Fantasy|8.5|114|80
+976|The Magic Realm 3|Fantasy|8.7|121|83
+977|Mystic Dragon 3|Fantasy|6|128|86
+978|Enchanted Cave 3|Fantasy|6.2|135|89
+979|Crystal Kingdom 3|Fantasy|6.3|142|92
+980|Dragons Legend 3|Fantasy|6.4|149|95
+981|The Magic Forest 3|Fantasy|6.6|156|98
+982|Mystic Kingdom 3|Fantasy|6.8|163|50
+983|Enchanted Quest 3|Fantasy|6.9|170|53
+984|Crystal Realm 3|Fantasy|7|177|56
+985|Dragons Quest 3|Fantasy|7.2|184|59
+986|The Magic Dragon 3|Fantasy|7.4|191|62
+987|Mystic Realm 3|Fantasy|7.5|198|65
+988|Enchanted Dragon 3|Fantasy|7.6|84|68
+989|Crystal Forest 3|Fantasy|7.8|91|71
+990|Dragons Kingdom 3|Fantasy|8|98|74
+991|The Magic Cave 3|Fantasy|8.1|105|77
+992|Mystic Cave 3|Fantasy|8.2|112|80
+993|Enchanted Realm 4|Fantasy|8.4|119|83
+994|Crystal Cave 4|Fantasy|8.5|126|86
+995|Dragons Fire 4|Fantasy|8.7|133|89
+996|The Magic Sword 4|Fantasy|6|140|92
+997|Mystic Quest 4|Fantasy|6.2|147|95
+998|Enchanted Kingdom 4|Fantasy|6.3|154|98
+999|Crystal Dragon 4|Fantasy|6.4|161|50
+1000|Dragons Call 4|Fantasy|6.6|168|53

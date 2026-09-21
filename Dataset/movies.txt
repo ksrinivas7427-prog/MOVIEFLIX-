@@ -1,34 +1,104 @@
-# MovieFlix Phase 1 Movie Dataset
-# Format:
-# ID|Title|Genre|Rating|Year|Actors|Director|Description
+# MovieFlix – Main Movie Dataset
+# Format: ID|Title|Genre|Rating|Year|Duration|Actors|Director|Popularity|Language|Description
+# Records: 100
 
-1|Avengers|Action|8.0|2012|Robert Downey Jr., Chris Evans, Scarlett Johansson|Joss Whedon|Earth's mightiest heroes unite to fight a global threat.
-2|Avengers Endgame|Action|8.4|2019|Robert Downey Jr., Chris Evans, Mark Ruffalo|Anthony Russo, Joe Russo|The Avengers make a final stand to restore the universe.
-3|Avengers Infinity War|Action|8.4|2018|Robert Downey Jr., Chris Evans, Chris Hemsworth|Anthony Russo, Joe Russo|The Avengers face a powerful enemy seeking the Infinity Stones.
-4|Iron Man|Action|7.9|2008|Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges|Jon Favreau|A genius builds a powered suit and becomes a superhero.
-5|Iron Man 2|Action|7.0|2010|Robert Downey Jr., Gwyneth Paltrow, Don Cheadle|Jon Favreau|Tony Stark faces new enemies while protecting his technology.
-6|Spider-Man|Action|7.3|2002|Tobey Maguire, Kirsten Dunst, Willem Dafoe|Sam Raimi|A young man gains spider-like abilities and becomes a hero.
-7|Spider-Man No Way Home|Action|8.2|2021|Tom Holland, Zendaya, Benedict Cumberbatch|Jon Watts|Spider-Man faces villains from different realities.
-8|Batman Begins|Action|8.2|2005|Christian Bale, Michael Caine, Liam Neeson|Christopher Nolan|Bruce Wayne begins his journey as Batman.
-9|The Dark Knight|Action|9.0|2008|Christian Bale, Heath Ledger, Aaron Eckhart|Christopher Nolan|Batman faces the Joker in Gotham City.
-10|Man of Steel|Action|7.1|2013|Henry Cavill, Amy Adams, Michael Shannon|Zack Snyder|Superman discovers his origins and protects Earth.
-11|Avatar|Sci-Fi|7.8|2009|Sam Worthington, Zoe Saldana, Sigourney Weaver|James Cameron|A marine explores the world of Pandora.
-12|Avatar The Way of Water|Sci-Fi|7.5|2022|Sam Worthington, Zoe Saldana, Sigourney Weaver|James Cameron|The Sully family explores the oceans of Pandora.
-13|Interstellar|Sci-Fi|8.7|2014|Matthew McConaughey, Anne Hathaway, Jessica Chastain|Christopher Nolan|Explorers travel through a wormhole searching for a new home.
-14|Inception|Sci-Fi|8.8|2010|Leonardo DiCaprio, Joseph Gordon-Levitt, Tom Hardy|Christopher Nolan|A specialist enters dreams to perform corporate espionage.
-15|The Matrix|Sci-Fi|8.7|1999|Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss|Lana Wachowski, Lilly Wachowski|A hacker discovers that reality is a simulated world.
-16|RRR|Action|8.0|2022|N. T. Rama Rao Jr., Ram Charan, Alia Bhatt|S. S. Rajamouli|Two revolutionaries form a powerful friendship during colonial India.
-17|Baahubali|Action|8.0|2015|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|A young warrior discovers his royal heritage.
-18|Pushpa|Action|7.6|2021|Allu Arjun, Rashmika Mandanna, Fahadh Faasil|Sukumar|A determined smuggler rises through the red sandalwood trade.
-19|Kalki 2898 AD|Sci-Fi|8.0|2024|Prabhas, Deepika Padukone, Amitabh Bachchan|Nag Ashwin|A futuristic story involving mythology and the survival of humanity.
-20|3 Idiots|Comedy Drama|8.4|2009|Aamir Khan, R. Madhavan, Sharman Joshi|Rajkumar Hirani|Three friends navigate college life and social expectations.
-21|Dangal|Drama|8.3|2016|Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra|Nitesh Tiwari|A father trains his daughters to become wrestling champions.
-22|Drishyam|Thriller|8.2|2015|Ajay Devgn, Tabu, Shriya Saran|Nishikant Kamat|A family uses careful planning to protect themselves from a crime investigation.
-23|Jawan|Action|7.0|2023|Shah Rukh Khan, Nayanthara, Vijay Sethupathi|Atlee|A man confronts corruption while pursuing justice.
-24|Pathaan|Action|5.8|2023|Shah Rukh Khan, Deepika Padukone, John Abraham|Siddharth Anand|An intelligence agent returns to stop a dangerous threat.
-25|Baahubali 2|Action|8.2|2017|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|The story of the kingdom continues as a mystery is revealed.
-26|KGF|Action|8.2|2018|Yash, Srinidhi Shetty, Ramachandra Raju|Prashanth Neel|A determined man rises to power in a dangerous gold mining empire.
-27|KGF Chapter 2|Action|8.4|2022|Yash, Sanjay Dutt, Srinidhi Shetty|Prashanth Neel|Rocky faces new enemies while protecting his empire.
-28|Leo|Action|7.2|2023|Vijay, Trisha, Sanjay Dutt|Lokesh Kanagaraj|A quiet cafe owner is drawn into a violent past.
-29|Vikram|Action|8.3|2022|Kamal Haasan, Vijay Sethupathi, Fahadh Faasil|Lokesh Kanagaraj|A black-ops team uncovers a dangerous criminal network.
-30|Kaithi|Action|8.4|2019|Karthi, Narain, Dheena|Lokesh Kanagaraj|A prisoner helps police transport seized drugs during one intense night.
+1|Avengers Endgame|Action|8.4|2019|181|Robert Downey Jr., Chris Evans, Mark Ruffalo|Anthony Russo, Joe Russo|98|English|The Avengers make a final stand to restore the universe after Thanos erases half of all life.
+2|Avengers Infinity War|Action|8.4|2018|149|Robert Downey Jr., Chris Hemsworth, Chris Evans|Anthony Russo, Joe Russo|97|English|The Avengers face Thanos who is collecting the six Infinity Stones to wipe out half the universe.
+3|The Dark Knight|Action|9.0|2008|152|Christian Bale, Heath Ledger, Aaron Eckhart|Christopher Nolan|99|English|Batman faces the Joker, a criminal mastermind bent on plunging Gotham City into anarchy.
+4|Interstellar|Sci-Fi|8.7|2014|169|Matthew McConaughey, Anne Hathaway, Jessica Chastain|Christopher Nolan|95|English|A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+5|Inception|Sci-Fi|8.8|2010|148|Leonardo DiCaprio, Joseph Gordon-Levitt, Elliot Page|Christopher Nolan|96|English|A thief who steals corporate secrets through the use of dream-sharing technology is given the task of planting an idea.
+6|The Matrix|Sci-Fi|8.7|1999|136|Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss|Lana Wachowski, Lilly Wachowski|94|English|A computer programmer discovers that reality as he knows it is a simulation run by machines.
+7|Spider-Man No Way Home|Action|8.2|2021|148|Tom Holland, Zendaya, Benedict Cumberbatch|Jon Watts|96|English|Spider-Man opens the multiverse releasing villains from alternate realities who threaten his world.
+8|Batman Begins|Action|8.2|2005|140|Christian Bale, Michael Caine, Liam Neeson|Christopher Nolan|91|English|After training with his mentor Bruce Wayne begins his transformation into Batman to fight injustice in Gotham.
+9|Iron Man|Action|7.9|2008|126|Robert Downey Jr., Gwyneth Paltrow, Jeff Bridges|Jon Favreau|92|English|Billionaire Tony Stark creates a powered armor suit and becomes a superhero to protect the world.
+10|Avatar|Sci-Fi|7.8|2009|162|Sam Worthington, Zoe Saldana, Sigourney Weaver|James Cameron|93|English|A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following orders and protecting the natives.
+11|Avatar The Way of Water|Sci-Fi|7.5|2022|192|Sam Worthington, Zoe Saldana, Kate Winslet|James Cameron|88|English|Jake Sully and Neytiri family must leave their home and explore the regions of Pandora.
+12|Spider-Man|Action|7.3|2002|121|Tobey Maguire, Kirsten Dunst, Willem Dafoe|Sam Raimi|87|English|When bitten by a genetically modified spider a nerdy teen gains spider-like abilities and fights crime.
+13|Iron Man 2|Action|7.0|2010|124|Robert Downey Jr., Gwyneth Paltrow, Don Cheadle|Jon Favreau|85|English|Tony Stark faces new enemies and government pressure while his arc reactor slowly poisons him.
+14|Man of Steel|Action|7.1|2013|143|Henry Cavill, Amy Adams, Michael Shannon|Zack Snyder|82|English|Clark Kent must become Superman and protect Earth from General Zod and the Kryptonian invasion.
+15|Avengers|Action|8.0|2012|143|Robert Downey Jr., Chris Evans, Scarlett Johansson|Joss Whedon|95|English|Earth's mightiest heroes come together to stop Loki and his alien army from subjugating the world.
+16|Guardians of the Galaxy|Action|8.0|2014|121|Chris Pratt, Zoe Saldana, Dave Bautista|James Gunn|90|English|A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.
+17|Thor Ragnarok|Action|7.9|2017|130|Chris Hemsworth, Tom Hiddleston, Mark Ruffalo|Taika Waititi|88|English|Thor is imprisoned on the planet Sakaar and must race against time to return to Asgard and stop Ragnarok.
+18|Black Panther|Action|7.3|2018|134|Chadwick Boseman, Michael B. Jordan, Lupita Nyongo|Ryan Coogler|89|English|T'Challa the king of Wakanda must step forward as both ruler and Black Panther to defend his nation.
+19|Doctor Strange|Sci-Fi|7.5|2016|115|Benedict Cumberbatch, Chiwetel Ejiofor, Tilda Swinton|Scott Derrickson|85|English|A brilliant but arrogant surgeon becomes a powerful sorcerer after a career-ending car accident.
+20|Captain America The First Avenger|Action|6.9|2011|124|Chris Evans, Hayley Atwell, Tommy Lee Jones|Joe Johnston|80|English|Steve Rogers a frail young man is transformed into Captain America to fight HYDRA in World War II.
+21|The Dark Knight Rises|Action|8.4|2012|164|Christian Bale, Tom Hardy, Anne Hathaway|Christopher Nolan|93|English|Eight years after the Joker's reign Batman returns to face Bane a powerful new enemy in Gotham.
+22|Joker|Drama|8.4|2019|122|Joaquin Phoenix, Robert De Niro, Zazie Beetz|Todd Phillips|91|English|A failed comedian and mentally ill loner descends into madness and becomes a criminal mastermind in Gotham.
+23|Gravity|Sci-Fi|7.7|2013|91|Sandra Bullock, George Clooney|Alfonso Cuaron|86|English|Two astronauts work together to survive after an accident leaves them stranded in outer space.
+24|The Martian|Sci-Fi|8.0|2015|144|Matt Damon, Jessica Chastain, Kristen Wiig|Ridley Scott|88|English|An astronaut stranded on Mars must use his science expertise to survive while NASA plans a rescue mission.
+25|Ready Player One|Sci-Fi|7.4|2018|140|Tye Sheridan, Olivia Cooke, Ben Mendelsohn|Steven Spielberg|84|English|A player who immerses himself in a virtual universe competes to win its creator's fortune.
+26|Tenet|Sci-Fi|7.3|2020|150|John David Washington, Robert Pattinson, Elizabeth Debicki|Christopher Nolan|80|English|A secret agent is armed with the ability to reverse time and must prevent the outbreak of World War III.
+27|Dunkirk|Drama|7.9|2017|106|Fionn Whitehead, Tom Hardy, Mark Rylance|Christopher Nolan|86|English|Allied soldiers from Belgium Britain Canada and France are surrounded by the German Army during World War II.
+28|1917|Drama|8.3|2019|119|George MacKay, Dean-Charles Chapman, Mark Strong|Sam Mendes|88|English|Two soldiers are sent on a dangerous mission to deliver a message that could save 1600 men.
+29|The Shawshank Redemption|Drama|9.3|1994|142|Tim Robbins, Morgan Freeman|Frank Darabont|99|English|Two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency.
+30|Forrest Gump|Drama|8.8|1994|142|Tom Hanks, Robin Wright, Gary Sinise|Robert Zemeckis|97|English|The presidencies of Kennedy and Johnson and the events of Vietnam are seen through the eyes of an Alabama man.
+31|The Godfather|Drama|9.2|1972|175|Marlon Brando, Al Pacino, James Caan|Francis Ford Coppola|98|English|The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+32|Pulp Fiction|Thriller|8.9|1994|154|John Travolta, Samuel L. Jackson, Uma Thurman|Quentin Tarantino|96|English|The lives of two mob hitmen a boxer and a pair of bandits intertwine in four tales of violence and redemption.
+33|The Silence of the Lambs|Thriller|8.6|1991|118|Jodie Foster, Anthony Hopkins|Jonathan Demme|91|English|A young FBI trainee must rely on a brilliant but cannibalistic psychiatrist to catch another serial killer.
+34|Fight Club|Thriller|8.8|1999|139|Brad Pitt, Edward Norton, Helena Bonham Carter|David Fincher|94|English|An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something more.
+35|Parasite|Thriller|8.6|2019|132|Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong|Bong Joon-ho|92|Korean|Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim family.
+36|The Lion King|Animation|8.5|1994|88|Matthew Broderick, Jeremy Irons, James Earl Jones|Roger Allers, Rob Minkoff|95|English|Lion prince Simba and his father are close until a scheming uncle plots to seize their kingdom.
+37|Finding Nemo|Animation|8.1|2003|100|Albert Brooks, Ellen DeGeneres|Andrew Stanton|90|English|After his son is captured in the Great Barrier Reef an overly protective clownfish sets out on a journey to bring him home.
+38|Toy Story|Animation|8.3|1995|81|Tom Hanks, Tim Allen|John Lasseter|91|English|A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boys room.
+39|Up|Animation|8.2|2009|96|Edward Asner, Jordan Nagai|Pete Docter|89|English|Seventy-eight-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons with a boy scout.
+40|Coco|Animation|8.4|2017|105|Anthony Gonzalez, Gael Garcia Bernal|Lee Unkrich|88|English|Aspiring musician Miguel enters the Land of the Dead to find his great-great-grandfather and uncover a family secret.
+41|The Notebook|Romance|7.8|2004|123|Ryan Gosling, Rachel McAdams|Nick Cassavetes|85|English|A poor boy and a rich girl fall in love during the 1940s and struggle to maintain their relationship against various obstacles.
+42|Titanic|Romance|7.9|1997|194|Leonardo DiCaprio, Kate Winslet|James Cameron|96|English|A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the ill-fated RMS Titanic.
+43|La La Land|Romance|8.0|2016|128|Ryan Gosling, Emma Stone|Damien Chazelle|87|English|While navigating their careers in Los Angeles a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.
+44|The Proposal|Romance|6.7|2009|108|Sandra Bullock, Ryan Reynolds|Anne Fletcher|78|English|A pushy boss forces her young assistant to marry her in order to keep her visa status in the United States.
+45|About Time|Romance|7.8|2013|123|Domhnall Gleeson, Rachel McAdams|Richard Curtis|82|English|At the age of 21 Tim discovers he can travel in time and change what happens and has happened in his own life.
+46|RRR|Action|8.0|2022|187|N. T. Rama Rao Jr., Ram Charan, Alia Bhatt|S. S. Rajamouli|95|Telugu|A fictitious story about two legendary Indian revolutionaries who form an unlikely friendship in colonial India.
+47|Baahubali The Beginning|Action|8.0|2015|159|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|94|Telugu|A young man raised by tribespeople goes on a quest to discover his real identity and royal heritage.
+48|Baahubali The Conclusion|Action|8.2|2017|167|Prabhas, Rana Daggubati, Anushka Shetty|S. S. Rajamouli|96|Telugu|When Shiva the son of Bahubali asks about his father a series of great events lead to the revelation of who killed Bahubali.
+49|KGF Chapter 1|Action|8.2|2018|156|Yash, Srinidhi Shetty, Ramachandra Raju|Prashanth Neel|93|Kannada|A fierce young man rises through the ranks of the criminal underworld in the Kolar Gold Fields to become a powerful leader.
+50|KGF Chapter 2|Action|8.4|2022|168|Yash, Sanjay Dutt, Srinidhi Shetty|Prashanth Neel|96|Kannada|Rocky now in control of the Kolar Gold Fields faces powerful enemies from the government and criminal underworld.
+51|Pushpa The Rise|Action|7.6|2021|179|Allu Arjun, Rashmika Mandanna, Fahadh Faasil|Sukumar|90|Telugu|A laborer rises through the ranks of a red sandalwood smuggling syndicate and becomes a powerful leader.
+52|Vikram|Action|8.3|2022|174|Kamal Haasan, Vijay Sethupathi, Fahadh Faasil|Lokesh Kanagaraj|92|Tamil|A black-ops team investigates a series of murders where a masked group kills drug dealers and leads to a bigger conspiracy.
+53|Kaithi|Action|8.4|2019|145|Karthi, Narain, Dheena|Lokesh Kanagaraj|89|Tamil|A prisoner on parole must help police transport seized narcotics and fight drug criminals during one intense night.
+54|Leo|Action|7.2|2023|164|Vijay, Trisha Krishnan, Sanjay Dutt|Lokesh Kanagaraj|88|Tamil|A quiet cafe owner who is pulled back into his dark and violent past when gangsters mistake him for a powerful criminal.
+55|Kalki 2898 AD|Sci-Fi|8.0|2024|181|Prabhas, Deepika Padukone, Amitabh Bachchan|Nag Ashwin|91|Telugu|In a dystopian future a prophecy about the tenth avatar of Vishnu unfolds as humanity fights for survival.
+56|3 Idiots|Comedy|8.4|2009|170|Aamir Khan, R. Madhavan, Sharman Joshi|Rajkumar Hirani|97|Hindi|Two friends search for their long lost companion and reminisce the college days and the inspiring events.
+57|Dangal|Drama|8.3|2016|161|Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra|Nitesh Tiwari|95|Hindi|A former wrestler trains his two daughters to become world-class wrestlers fulfilling his own unfulfilled dream.
+58|Taare Zameen Par|Drama|8.4|2007|162|Aamir Khan, Darsheel Safary|Aamir Khan|93|Hindi|An eight-year-old child is diagnosed with dyslexia and finds his talent with the help of an art teacher.
+59|PK|Comedy|8.1|2014|153|Aamir Khan, Anushka Sharma, Sushant Singh Rajput|Rajkumar Hirani|92|Hindi|An alien on Earth is searching for his remote control and questions the existence of God and religion.
+60|Dil Chahta Hai|Comedy|8.1|2001|183|Aamir Khan, Saif Ali Khan, Akshaye Khanna|Farhan Akhtar|90|Hindi|Three inseparable best friends have completely different approaches to love and life after college.
+61|Zindagi Na Milegi Dobara|Adventure|8.2|2011|155|Hrithik Roshan, Farhan Akhtar, Abhay Deol|Zoya Akhtar|91|Hindi|Three friends take a road trip across Spain confronting fears and discovering what they truly want from life.
+62|Drishyam|Thriller|8.2|2015|163|Ajay Devgn, Tabu, Shriya Saran|Nishikant Kamat|90|Hindi|A man desperately tries to save his family from a high-profile murder investigation using a carefully crafted alibi.
+63|Andhadhun|Thriller|8.3|2018|139|Ayushmann Khurrana, Tabu, Radhika Apte|Sriram Raghavan|91|Hindi|A piano player pretending to be blind witnesses a murder and gets entangled in a web of deceit and murder.
+64|Article 15|Drama|8.1|2019|130|Ayushmann Khurrana, Nassar, Kumud Mishra|Anubhav Sinha|87|Hindi|A police officer investigates caste-based discrimination and atrocities in a remote village in India.
+65|Gully Boy|Drama|7.9|2019|153|Ranveer Singh, Alia Bhatt|Zoya Akhtar|86|Hindi|A young man from a Mumbai slum area becomes a street rapper and rises to fame in the underground music scene.
+66|Jawan|Action|7.0|2023|169|Shah Rukh Khan, Nayanthara, Vijay Sethupathi|Atlee|85|Hindi|An intelligent prison warden battles systemic corruption exposing failed governance across multiple sectors of India.
+67|Pathaan|Action|5.8|2023|146|Shah Rukh Khan, Deepika Padukone, John Abraham|Siddharth Anand|72|Hindi|A spy returns from exile to stop a rogue agent who is planning a devastating bioterrorism attack.
+68|War|Action|7.1|2019|154|Hrithik Roshan, Tiger Shroff, Vaani Kapoor|Siddharth Anand|84|Hindi|India's most lethal assassin must eliminate his mentor who has gone rogue and is working against the nation.
+69|Uri The Surgical Strike|Action|8.2|2019|138|Vicky Kaushal, Paresh Rawal, Yami Gautam|Aditya Dhar|91|Hindi|The Indian army conducts a covert surgical strike across the Line of Control after a militant attack.
+70|Super 30|Drama|7.5|2019|155|Hrithik Roshan, Mrunal Thakur|Vikas Bahl|83|Hindi|A mathematician trains 30 underprivileged students to crack the IIT entrance examination against all odds.
+71|Tumbbad|Horror|8.2|2018|104|Sohum Shah, Jyoti Malshe|Rahi Anil Barve|88|Hindi|A man discovers the secret of a deity who was created before the Gods and a treasure guarded by a mythological creature.
+72|A Wednesday|Thriller|8.2|2008|104|Naseeruddin Shah, Anupam Kher|Neeraj Pandey|87|Hindi|A common man plants bombs across Mumbai and demands the release of four terrorists creating a tense standoff.
+73|Queen|Drama|8.2|2014|146|Kangana Ranaut, Rajkummar Rao|Vikas Bahl|89|Hindi|A woman goes on her solo honeymoon after being jilted at the altar and discovers her own identity and freedom.
+74|Masaan|Drama|8.0|2015|109|Richa Chadha, Vicky Kaushal, Shweta Tripathi|Neeraj Ghaywan|86|Hindi|Two people from the holy city of Varanasi deal with grief and social stigma while trying to rebuild their lives.
+75|Gangs of Wasseypur|Thriller|8.2|2012|321|Manoj Bajpayee, Nawazuddin Siddiqui, Richa Chadha|Anurag Kashyap|90|Hindi|A saga of revenge spanning three generations among coal mining town gangs set from the 1940s to modern times.
+76|Spirited Away|Animation|8.6|2001|125|Daveigh Chase, Suzanne Pleshette|Hayao Miyazaki|93|Japanese|During her family's move to the suburbs a sullen 10-year-old girl wanders into a world ruled by gods witches and spirits.
+77|Your Name|Romance|8.4|2016|106|Ryunosuke Kamiki, Mone Kamishiraishi|Makoto Shinkai|90|Japanese|Two strangers find they are linked by a mysterious connection body-swapping while sleeping and falling for each other.
+78|Train to Busan|Thriller|7.6|2016|118|Gong Yoo, Jung Yu-mi, Ma Dong-seok|Yeon Sang-ho|86|Korean|While a zombie virus breaks out in South Korea passengers struggle to survive on the train from Seoul to Busan.
+79|Oldboy|Thriller|8.4|2003|120|Choi Min-sik, Yoo Ji-tae|Park Chan-wook|88|Korean|After being imprisoned for 15 years without explanation a man seeks revenge and searches for the reason behind his captivity.
+80|Parasite 2|Thriller|7.5|2019|130|Song Kang-ho, Choi Woo-sik|Bong Joon-ho|80|Korean|A follow-up story exploring additional threads from the Kim and Park families and the consequences of their entanglement.
+81|Whiplash|Drama|8.5|2014|107|Miles Teller, J.K. Simmons|Damien Chazelle|89|English|A promising young drummer enrolls at a cut-throat music conservatory where his high-pressure instructor will stop at nothing to get a perfect performance.
+82|Mad Max Fury Road|Action|8.1|2015|120|Tom Hardy, Charlize Theron|George Miller|90|English|In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search of her homeland with the aid of a group of female prisoners.
+83|John Wick|Action|7.4|2014|101|Keanu Reeves, Michael Nyqvist|Chad Stahelski|87|English|An ex-hitman comes out of retirement to track down the gangsters who took everything from him and killed his beloved dog.
+84|Top Gun Maverick|Action|8.3|2022|130|Tom Cruise, Miles Teller, Jennifer Connelly|Joseph Kosinski|93|English|After more than thirty years of service as one of the Navy's top aviators Pete Mitchell is where he belongs pushing the envelope.
+85|Mission Impossible|Action|7.1|1996|110|Tom Cruise, Jon Voight, Emmanuelle Beart|Brian De Palma|83|English|An American agent under false suspicion of disloyalty must discover and expose the real spy without actually knowing who it is.
+86|Mission Impossible Fallout|Action|7.7|2018|147|Tom Cruise, Henry Cavill, Ving Rhames|Christopher McQuarrie|89|English|Ethan Hunt and his IMF team must race against time after a mission gone wrong and prevent nuclear weapons from reaching terrorists.
+87|Gladiator|Action|8.5|2000|155|Russell Crowe, Joaquin Phoenix|Ridley Scott|92|English|A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him to slavery.
+88|Braveheart|Drama|8.3|1995|178|Mel Gibson, Sophie Marceau, Patrick McGoohan|Mel Gibson|91|English|Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I.
+89|Schindlers List|Drama|9.0|1993|195|Liam Neeson, Ben Kingsley, Ralph Fiennes|Steven Spielberg|97|English|In German-occupied Poland during World War II a Czech-German industrialist grows to safety more than a thousand Jewish refugees.
+90|The Prestige|Thriller|8.5|2006|130|Hugh Jackman, Christian Bale, Michael Caine|Christopher Nolan|90|English|After a tragic accident two stage magicians engage in a bitter rivalry to create the ultimate illusion while sacrificing everything.
+91|Memento|Thriller|8.4|2000|113|Guy Pearce, Carrie-Anne Moss, Joe Pantoliano|Christopher Nolan|88|English|A man with short-term memory loss attempts to track down his wife's murderer using tattooed clues and Polaroid photos.
+92|Se7en|Thriller|8.6|1995|127|Brad Pitt, Morgan Freeman, Kevin Spacey|David Fincher|91|English|Two detectives a rookie and a veteran hunt a serial killer who uses the seven deadly sins as his motives.
+93|Catch Me If You Can|Drama|8.1|2002|141|Leonardo DiCaprio, Tom Hanks|Steven Spielberg|89|English|A brilliant con man posing as a pilot doctor and lawyer is relentlessly pursued by a determined FBI agent.
+94|The Truman Show|Drama|8.1|1998|103|Jim Carrey, Ed Harris, Laura Linney|Peter Weir|88|English|An insurance salesman discovers his whole life is actually a reality television show and everyone around him is an actor.
+95|Good Will Hunting|Drama|8.3|1997|126|Matt Damon, Robin Williams, Ben Affleck|Gus Van Sant|90|English|Will Hunting a janitor at MIT has a gift for mathematics but needs help from a psychologist to find direction in his life.
+96|A Beautiful Mind|Drama|8.2|2001|135|Russell Crowe, Ed Harris, Jennifer Connelly|Ron Howard|88|English|A mathematical genius overcomes paranoid schizophrenia and makes a Nobel Prize-winning contribution to game theory.
+97|The Wolf of Wall Street|Drama|8.2|2013|180|Leonardo DiCaprio, Jonah Hill, Margot Robbie|Martin Scorsese|90|English|Based on the true story of Jordan Belfort from his rise to a wealthy stockbroker to his fall involving crime and corruption.
+98|Oppenheimer|Drama|8.3|2023|180|Cillian Murphy, Emily Blunt, Robert Downey Jr.|Christopher Nolan|91|English|The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.
+99|Barbie|Comedy|6.9|2023|114|Margot Robbie, Ryan Gosling|Greta Gerwig|82|English|Barbie suffers a crisis that leads her to question her world and herself and she sets off on an adventure in the real world.
+100|Dune|Sci-Fi|8.0|2021|155|Timothee Chalamet, Zendaya, Rebecca Ferguson|Denis Villeneuve|88|English|Feature adaptation of Frank Herbert's science fiction novel about a young man who must travel to a dangerous desert planet.

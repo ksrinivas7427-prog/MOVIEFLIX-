@@ -1,0 +1,34 @@
+# MovieFlix – User Dataset
+# Format: UserID|Name|PreferredGenres|PreferredLanguage|MinRating|MaxDuration
+# Records: 30
+
+U001|Alice Johnson|Action,Sci-Fi|English|7.5|180
+U002|Rahul Sharma|Drama,Romance|Hindi|7.0|160
+U003|Priya Patel|Comedy,Drama|Hindi|6.5|150
+U004|Michael Chen|Sci-Fi,Thriller|English|7.0|200
+U005|Sarah Williams|Romance,Drama|English|7.5|130
+U006|Arjun Reddy|Action,Thriller|Telugu|7.0|200
+U007|Meera Nair|Drama,Romance|Malayalam|6.8|140
+U008|James Rodriguez|Action,Adventure|English|7.5|180
+U009|Kavya Krishnan|Comedy,Romance|Tamil|6.5|150
+U010|David Park|Thriller,Sci-Fi|English|7.5|200
+U011|Anjali Singh|Drama,Comedy|Hindi|7.0|160
+U012|Tom Bradley|Action,Sci-Fi|English|8.0|200
+U013|Sneha Gupta|Romance,Drama|Hindi|7.0|150
+U014|Chris Evans|Action,Adventure|English|7.0|180
+U015|Neha Joshi|Comedy,Drama|Hindi|6.5|140
+U016|Vikram Nair|Action,Thriller|Malayalam|7.5|200
+U017|Lisa Anderson|Romance,Comedy|English|7.0|130
+U018|Ravi Kumar|Drama,Thriller|Tamil|7.0|170
+U019|Emma Watson|Sci-Fi,Fantasy|English|7.5|180
+U020|Aditya Kapoor|Action,Drama|Hindi|7.0|190
+U021|Divya Menon|Romance,Drama|Malayalam|6.8|150
+U022|Ryan Johnson|Thriller,Action|English|7.0|180
+U023|Pooja Iyer|Comedy,Romance|Tamil|6.5|130
+U024|Sam Wilson|Action,Sci-Fi|English|7.5|200
+U025|Rohit Verma|Drama,Thriller|Hindi|7.5|170
+U026|Jessica Lee|Romance,Comedy|English|7.0|140
+U027|Kiran Babu|Action,Drama|Telugu|7.0|180
+U028|Nathan Clark|Sci-Fi,Thriller|English|8.0|200
+U029|Aditi Bose|Drama,Comedy|Bengali|6.8|150
+U030|Carlos Mendez|Action,Adventure|English|7.5|200

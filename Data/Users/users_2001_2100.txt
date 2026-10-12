@@ -1,0 +1,100 @@
+2001|Priya Nair 2001|51|Thriller, Documentary|Hindi, Tamil|Ram Charan, Song Kang-ho|Sukumar|7.7|74.3
+2002|John Doe 2002|49|Animation / Adventure, Documentary|Tamil, Korean|Vijay, Prabhas|David Fincher|6.1|84.8
+2003|Alice Smith 2003|54|Animation / Adventure, Comedy|Tamil, Japanese|Ram Charan, Margot Robbie|Mani Ratnam|6.9|80.8
+2004|Bob Martin 2004|41|Action / Adventure, Adventure|Spanish, Telugu|Choi Min-sik, Robert Downey Jr|Bong Joon-ho|6.7|76.5
+2005|Emma Watson 2005|24|Drama / Romance, Crime / Thriller|Japanese, Tamil|Allu Arjun, Robert Downey Jr|Hayao Miyazaki|7.3|95.4
+2006|Kavya Krishnan 2006|33|Comedy / Drama, Documentary|Hindi, Telugu|Emma Stone, Margot Robbie|Prashanth Neel|6.9|71.3
+2007|Rohan Gupta 2007|18|Adventure, Drama / Romance|French|Vijay, Margot Robbie|David Fincher|6.6|91.2
+2008|Deepak Chopra 2008|62|Animation, Drama|French|Allu Arjun, Choi Min-sik|Quentin Tarantino|6.4|75.4
+2009|Ananya Deshmukh 2009|22|Documentary, Thriller|Telugu, Tamil|Prabhas, Christian Bale|Quentin Tarantino|8.3|95.1
+2010|David Miller 2010|28|Horror, Action / Sci-Fi|English, Korean|Prabhas, Ram Charan|Hayao Miyazaki|8.1|89.5
+2011|Aarav Sharma 2011|68|Action, Drama|English, Hindi|Brad Pitt, Allu Arjun|James Cameron|7.8|96.6
+2012|Aditi Rao 2012|45|Action / Sci-Fi, Sci-Fi / Thriller|Tamil, Japanese|Choi Min-sik, Vijay|Anurag Kashyap|8.9|78.2
+2013|Rahul Varma 2013|55|Action / Sci-Fi, Horror|Korean, French|Margot Robbie, Christian Bale|Guillermo del Toro|7.1|78.9
+2014|Sneha Patel 2014|28|Sci-Fi / Thriller, Crime|Hindi, Tamil|Ram Charan, Jr NTR|Denis Villeneuve|7.0|92.8
+2015|Vikram Reddy 2015|24|Drama / Romance, Sci-Fi / Thriller|Hindi, Spanish|Christian Bale, Scarlett Johansson|Greta Gerwig|8.0|98.7
+2016|Priya Nair 2016|33|Horror / Thriller, Sci-Fi / Thriller|Japanese, Spanish|Christian Bale, Song Kang-ho|James Cameron|7.5|79.8
+2017|John Doe 2017|36|Horror / Thriller, Action / Sci-Fi|English, Spanish|Jr NTR, Scarlett Johansson|Christopher Nolan|8.4|78.9
+2018|Alice Smith 2018|66|Animation / Adventure, Comedy|Hindi, Telugu|Margot Robbie, Leonardo DiCaprio|Prashanth Neel|6.6|84.9
+2019|Bob Martin 2019|32|Sci-Fi, Drama / Romance|Telugu, English|Ram Charan, Song Kang-ho|Anurag Kashyap|6.7|92.9
+2020|Emma Watson 2020|26|Thriller, Action|Telugu, Spanish|Leonardo DiCaprio, Jr NTR|Anurag Kashyap|6.3|78.1
+2021|Kavya Krishnan 2021|51|Horror, Drama / Romance|Hindi, Spanish|Tom Hanks, Robert Downey Jr|Prashanth Neel|8.1|74.5
+2022|Rohan Gupta 2022|67|Adventure, Action / Adventure|Korean|Margot Robbie, Choi Min-sik|Guillermo del Toro|7.6|75.5
+2023|Deepak Chopra 2023|69|Documentary, Sci-Fi|Hindi, Tamil|Jr NTR, Leonardo DiCaprio|Steven Spielberg|8.5|89.5
+2024|Ananya Deshmukh 2024|24|Drama / Romance, Action / Adventure|French, Tamil|Allu Arjun, Deepika Padukone|Quentin Tarantino|9.4|80.3
+2025|David Miller 2025|60|Comedy / Drama, Adventure|English, Spanish|Emma Stone, Christian Bale|Prashanth Neel|9.4|95.5
+2026|Aarav Sharma 2026|37|Adventure, Crime|Korean, Telugu|Robert Downey Jr, Samantha Ruth Prabhu|Prashanth Neel|7.4|75.2
+2027|Aditi Rao 2027|61|Animation / Adventure, Comedy / Drama|English|Leonardo DiCaprio, Shah Rukh Khan|Anurag Kashyap|7.2|97.9
+2028|Rahul Varma 2028|61|Fantasy, Horror|Korean, Tamil|Vijay, Cillian Murphy|Guillermo del Toro|9.4|86.4
+2029|Sneha Patel 2029|27|Sci-Fi / Thriller, Action / Adventure|Hindi, Telugu|Ram Charan, Brad Pitt|Martin Scorsese|7.7|80.7
+2030|Vikram Reddy 2030|50|Sci-Fi / Thriller, Horror / Thriller|Spanish, English|Allu Arjun, Deepika Padukone|Lokesh Kanagaraj|7.0|73.2
+2031|Priya Nair 2031|61|Horror, Action / Sci-Fi|English|Margot Robbie, Brad Pitt|Denis Villeneuve|8.8|72.2
+2032|John Doe 2032|37|Adventure, Horror|Japanese, Spanish|Allu Arjun, Scarlett Johansson|Sukumar|7.5|71.1
+2033|Alice Smith 2033|67|Adventure, Drama / Romance|Tamil, Korean|Tom Hanks, Margot Robbie|Denis Villeneuve|7.7|84.0
+2034|Bob Martin 2034|63|Animation / Adventure, Romance|Korean, English|Tom Hanks, Christian Bale|Greta Gerwig|6.8|94.2
+2035|Emma Watson 2035|56|Sci-Fi / Thriller, Comedy|Telugu, Japanese|Christian Bale, Choi Min-sik|James Cameron|7.8|79.7
+2036|Kavya Krishnan 2036|61|Action / Sci-Fi, Romance|English, Tamil|Scarlett Johansson, Samantha Ruth Prabhu|Lokesh Kanagaraj|8.2|76.2
+2037|Rohan Gupta 2037|44|Animation, Action / Adventure|Korean, English|Emma Stone, Robert Downey Jr|James Cameron|8.3|97.7
+2038|Deepak Chopra 2038|45|Animation / Adventure, Romance|Korean, Hindi|Leonardo DiCaprio, Shah Rukh Khan|Hayao Miyazaki|6.7|89.8
+2039|Ananya Deshmukh 2039|58|Animation / Adventure, Action|Hindi, Telugu|Choi Min-sik, Vijay|Martin Scorsese|6.2|97.9
+2040|David Miller 2040|66|Action / Adventure, Drama|English, Japanese|Brad Pitt, Samantha Ruth Prabhu|David Fincher|8.5|73.1
+2041|Aarav Sharma 2041|61|Sci-Fi / Thriller, Crime|Tamil, Hindi|Ram Charan, Leonardo DiCaprio|Prashanth Neel|6.3|72.3
+2042|Aditi Rao 2042|67|Comedy|Tamil, Japanese|Deepika Padukone, Deepika Padukone|Christopher Nolan|8.4|92.7
+2043|Rahul Varma 2043|45|Crime, Drama / Romance|French, English|Prabhas, Vijay|Lokesh Kanagaraj|7.2|92.0
+2044|Sneha Patel 2044|50|Action / Adventure, Documentary|French, Spanish|Leonardo DiCaprio, Cillian Murphy|Prashanth Neel|7.1|98.3
+2045|Vikram Reddy 2045|53|Documentary, Sci-Fi|Japanese, English|Vijay, Leonardo DiCaprio|Sukumar|7.3|81.7
+2046|Priya Nair 2046|29|Sci-Fi, Horror / Thriller|Hindi, Spanish|Emma Stone, Allu Arjun|Prashanth Neel|8.3|86.2
+2047|John Doe 2047|62|Crime, Horror|Telugu, Tamil|Allu Arjun, Margot Robbie|Christopher Nolan|8.8|82.5
+2048|Alice Smith 2048|42|Action / Adventure, Comedy|Spanish, Tamil|Emma Stone, Leonardo DiCaprio|Bong Joon-ho|8.8|75.8
+2049|Bob Martin 2049|29|Crime / Thriller, Sci-Fi|Korean, French|Vijay, Margot Robbie|Sukumar|7.6|97.2
+2050|Emma Watson 2050|25|Comedy, Action|French, Korean|Prabhas, Cillian Murphy|S.S. Rajamouli|9.2|89.8
+2051|Kavya Krishnan 2051|55|Romance, Sci-Fi|Telugu, Spanish|Scarlett Johansson, Ram Charan|Anurag Kashyap|8.7|88.2
+2052|Rohan Gupta 2052|36|Thriller, Horror / Thriller|Spanish, Japanese|Emma Stone, Christian Bale|Sukumar|8.3|75.7
+2053|Deepak Chopra 2053|39|Horror, Fantasy|Telugu|Tom Hanks, Deepika Padukone|Greta Gerwig|9.2|87.9
+2054|Ananya Deshmukh 2054|48|Drama, Crime|French, English|Margot Robbie, Song Kang-ho|Denis Villeneuve|6.3|70.3
+2055|David Miller 2055|65|Crime, Documentary|Tamil, Hindi|Vijay, Jr NTR|Greta Gerwig|7.9|72.4
+2056|Aarav Sharma 2056|25|Action / Adventure|French, Spanish|Brad Pitt, Emma Stone|Greta Gerwig|7.6|87.7
+2057|Aditi Rao 2057|48|Sci-Fi / Thriller, Animation|Japanese, French|Margot Robbie, Prabhas|David Fincher|6.3|71.4
+2058|Rahul Varma 2058|34|Sci-Fi / Thriller, Comedy|Hindi, English|Ram Charan, Allu Arjun|Mani Ratnam|7.4|81.7
+2059|Sneha Patel 2059|31|Crime, Animation / Adventure|Tamil, Korean|Deepika Padukone, Ram Charan|David Fincher|6.2|84.5
+2060|Vikram Reddy 2060|23|Thriller, Action / Sci-Fi|Hindi, Telugu|Brad Pitt, Robert Downey Jr|David Fincher|6.2|76.7
+2061|Priya Nair 2061|58|Documentary, Drama / Romance|English, Spanish|Jr NTR, Jr NTR|Hayao Miyazaki|6.3|90.7
+2062|John Doe 2062|48|Sci-Fi, Animation / Adventure|Tamil, Hindi|Shah Rukh Khan, Deepika Padukone|Greta Gerwig|7.1|80.9
+2063|Alice Smith 2063|33|Animation / Adventure, Thriller|Hindi, Korean|Ram Charan, Robert Downey Jr|David Fincher|9.2|98.9
+2064|Bob Martin 2064|23|Comedy / Drama, Romance|Japanese, Tamil|Samantha Ruth Prabhu, Brad Pitt|Bong Joon-ho|9.3|77.3
+2065|Emma Watson 2065|30|Sci-Fi, Fantasy|Hindi, French|Jr NTR, Emma Stone|David Fincher|9.2|76.4
+2066|Kavya Krishnan 2066|28|Animation / Adventure, Drama|Hindi, Spanish|Ram Charan, Prabhas|S.S. Rajamouli|9.0|98.3
+2067|Rohan Gupta 2067|37|Action, Horror|Tamil, English|Allu Arjun, Allu Arjun|Lokesh Kanagaraj|7.6|78.6
+2068|Deepak Chopra 2068|43|Action / Sci-Fi, Crime / Thriller|English, Japanese|Margot Robbie, Emma Stone|Christopher Nolan|7.6|95.3
+2069|Ananya Deshmukh 2069|58|Animation / Adventure, Action / Adventure|Japanese, English|Deepika Padukone, Choi Min-sik|Martin Scorsese|9.2|77.7
+2070|David Miller 2070|44|Comedy, Comedy / Drama|Spanish|Robert Downey Jr, Jr NTR|Greta Gerwig|8.7|81.5
+2071|Aarav Sharma 2071|48|Sci-Fi, Adventure|Telugu, Korean|Christian Bale, Shah Rukh Khan|Denis Villeneuve|9.1|98.7
+2072|Aditi Rao 2072|65|Documentary, Action / Sci-Fi|Spanish, Telugu|Brad Pitt, Prabhas|Hayao Miyazaki|8.8|81.1
+2073|Rahul Varma 2073|18|Horror, Action / Adventure|English, Telugu|Samantha Ruth Prabhu, Christian Bale|Guillermo del Toro|6.9|80.0
+2074|Sneha Patel 2074|45|Comedy / Drama, Sci-Fi|Spanish, Hindi|Tom Hanks, Prabhas|Ridley Scott|6.3|74.7
+2075|Vikram Reddy 2075|52|Drama / Romance, Action / Sci-Fi|Japanese, Tamil|Margot Robbie, Prabhas|Denis Villeneuve|9.0|85.0
+2076|Priya Nair 2076|69|Sci-Fi / Thriller, Thriller|English, Tamil|Shah Rukh Khan, Tom Hanks|Sukumar|9.3|76.0
+2077|John Doe 2077|42|Thriller, Adventure|Telugu, French|Tom Hanks, Leonardo DiCaprio|Hayao Miyazaki|7.8|83.7
+2078|Alice Smith 2078|40|Crime / Thriller, Animation|Spanish, English|Leonardo DiCaprio, Samantha Ruth Prabhu|S.S. Rajamouli|8.8|96.3
+2079|Bob Martin 2079|18|Action / Adventure, Romance|French, Hindi|Tom Hanks, Robert Downey Jr|Martin Scorsese|8.8|90.7
+2080|Emma Watson 2080|37|Documentary, Crime|Hindi, Tamil|Song Kang-ho, Samantha Ruth Prabhu|Sukumar|7.3|85.7
+2081|Kavya Krishnan 2081|45|Thriller, Crime / Thriller|French, Japanese|Vijay, Jr NTR|Quentin Tarantino|6.7|80.1
+2082|Rohan Gupta 2082|63|Documentary, Horror|Korean|Leonardo DiCaprio, Ram Charan|Steven Spielberg|7.8|73.7
+2083|Deepak Chopra 2083|57|Animation / Adventure, Crime|Tamil, Spanish|Allu Arjun, Shah Rukh Khan|Lokesh Kanagaraj|6.1|71.6
+2084|Ananya Deshmukh 2084|31|Comedy / Drama, Action / Adventure|Japanese, French|Tom Hanks, Song Kang-ho|Martin Scorsese|6.2|85.6
+2085|David Miller 2085|39|Sci-Fi, Thriller|Japanese, Spanish|Jr NTR, Brad Pitt|David Fincher|6.3|92.4
+2086|Aarav Sharma 2086|29|Sci-Fi / Thriller, Crime / Thriller|Telugu|Emma Stone, Ram Charan|James Cameron|7.2|80.8
+2087|Aditi Rao 2087|49|Documentary, Horror|Spanish|Tom Hanks, Vijay|Prashanth Neel|7.9|70.0
+2088|Rahul Varma 2088|21|Comedy, Fantasy|English, French|Deepika Padukone, Brad Pitt|Martin Scorsese|7.7|77.4
+2089|Sneha Patel 2089|38|Animation / Adventure, Fantasy|French, English|Cillian Murphy, Shah Rukh Khan|Mani Ratnam|7.0|78.7
+2090|Vikram Reddy 2090|52|Fantasy, Action|Tamil, Telugu|Deepika Padukone, Allu Arjun|James Cameron|8.4|91.9
+2091|Priya Nair 2091|40|Adventure, Sci-Fi|Hindi, Telugu|Samantha Ruth Prabhu, Jr NTR|Sukumar|8.5|99.0
+2092|John Doe 2092|51|Comedy / Drama, Animation / Adventure|Spanish, Hindi|Christian Bale, Allu Arjun|Sukumar|8.9|91.1
+2093|Alice Smith 2093|44|Documentary, Crime|Japanese, Hindi|Margot Robbie, Ram Charan|Steven Spielberg|9.3|79.7
+2094|Bob Martin 2094|21|Thriller, Animation / Adventure|English|Margot Robbie, Vijay|Greta Gerwig|6.7|93.6
+2095|Emma Watson 2095|27|Action, Thriller|Tamil, Japanese|Vijay, Scarlett Johansson|Steven Spielberg|8.2|71.8
+2096|Kavya Krishnan 2096|52|Crime / Thriller, Action / Sci-Fi|Japanese, Korean|Robert Downey Jr, Shah Rukh Khan|Denis Villeneuve|9.0|97.4
+2097|Rohan Gupta 2097|31|Crime / Thriller, Drama|Korean, English|Cillian Murphy, Deepika Padukone|Greta Gerwig|8.3|76.5
+2098|Deepak Chopra 2098|23|Animation / Adventure|French, Telugu|Tom Hanks, Tom Hanks|Steven Spielberg|7.6|70.9
+2099|Ananya Deshmukh 2099|40|Action / Sci-Fi, Action / Adventure|Spanish, Tamil|Prabhas, Allu Arjun|Hayao Miyazaki|7.6|71.4
+2100|David Miller 2100|52|Horror / Thriller, Comedy / Drama|Spanish, Hindi|Cillian Murphy, Vijay|Guillermo del Toro|7.7|86.3

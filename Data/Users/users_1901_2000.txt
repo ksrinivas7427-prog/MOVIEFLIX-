@@ -1,0 +1,100 @@
+1901|Kavya Krishnan 1901|39|Horror / Thriller, Sci-Fi / Thriller|Tamil, Spanish|Prabhas, Jr NTR|Prashanth Neel|6.3|97.4
+1902|Rohan Gupta 1902|61|Crime / Thriller, Sci-Fi|Spanish, English|Jr NTR, Emma Stone|Mani Ratnam|7.9|92.1
+1903|Deepak Chopra 1903|53|Action / Sci-Fi, Action|Tamil, Japanese|Samantha Ruth Prabhu, Shah Rukh Khan|Greta Gerwig|7.1|74.9
+1904|Ananya Deshmukh 1904|30|Horror, Comedy|Japanese, Tamil|Ram Charan, Allu Arjun|Quentin Tarantino|8.5|80.4
+1905|David Miller 1905|42|Animation, Horror|Spanish, Tamil|Vijay, Margot Robbie|Anurag Kashyap|8.2|98.4
+1906|Aarav Sharma 1906|45|Animation / Adventure, Sci-Fi|French, Korean|Prabhas, Shah Rukh Khan|Martin Scorsese|6.3|97.4
+1907|Aditi Rao 1907|35|Thriller, Horror|Telugu, English|Deepika Padukone, Brad Pitt|Mani Ratnam|6.8|77.2
+1908|Rahul Varma 1908|68|Animation, Adventure|Telugu|Shah Rukh Khan, Shah Rukh Khan|Denis Villeneuve|8.2|87.9
+1909|Sneha Patel 1909|53|Documentary, Thriller|Hindi, Tamil|Shah Rukh Khan, Scarlett Johansson|Guillermo del Toro|7.0|82.8
+1910|Vikram Reddy 1910|38|Animation / Adventure, Adventure|English, Tamil|Samantha Ruth Prabhu, Robert Downey Jr|Sukumar|9.2|83.3
+1911|Priya Nair 1911|23|Horror, Drama / Romance|Spanish, Telugu|Vijay, Leonardo DiCaprio|S.S. Rajamouli|6.0|75.1
+1912|John Doe 1912|20|Animation, Comedy|Korean, Hindi|Christian Bale, Jr NTR|Greta Gerwig|7.8|79.2
+1913|Alice Smith 1913|49|Sci-Fi / Thriller, Comedy / Drama|English, Korean|Emma Stone, Brad Pitt|Greta Gerwig|8.4|86.9
+1914|Bob Martin 1914|59|Comedy / Drama, Sci-Fi|Tamil, Hindi|Cillian Murphy, Deepika Padukone|Hayao Miyazaki|7.4|98.4
+1915|Emma Watson 1915|29|Sci-Fi / Thriller, Documentary|Telugu, French|Margot Robbie, Leonardo DiCaprio|S.S. Rajamouli|9.3|98.0
+1916|Kavya Krishnan 1916|62|Fantasy, Drama / Romance|Japanese|Brad Pitt, Tom Hanks|Quentin Tarantino|6.2|79.2
+1917|Rohan Gupta 1917|28|Animation / Adventure, Crime|Korean, French|Prabhas, Emma Stone|Denis Villeneuve|7.2|74.4
+1918|Deepak Chopra 1918|55|Sci-Fi, Action / Adventure|Spanish, Tamil|Robert Downey Jr, Prabhas|Lokesh Kanagaraj|6.2|92.6
+1919|Ananya Deshmukh 1919|32|Action / Adventure, Fantasy|Spanish|Scarlett Johansson, Christian Bale|Martin Scorsese|6.5|85.6
+1920|David Miller 1920|42|Fantasy|Spanish, French|Emma Stone, Emma Stone|Steven Spielberg|7.2|79.3
+1921|Aarav Sharma 1921|23|Fantasy|Spanish, Japanese|Cillian Murphy, Margot Robbie|Quentin Tarantino|6.1|75.6
+1922|Aditi Rao 1922|34|Horror / Thriller, Comedy|Spanish, French|Samantha Ruth Prabhu, Prabhas|S.S. Rajamouli|6.2|72.1
+1923|Rahul Varma 1923|61|Romance|Spanish, Telugu|Robert Downey Jr, Ram Charan|Sukumar|6.3|83.1
+1924|Sneha Patel 1924|26|Comedy, Animation|Telugu, English|Cillian Murphy, Margot Robbie|Denis Villeneuve|8.8|77.5
+1925|Vikram Reddy 1925|36|Comedy, Romance|French, Korean|Margot Robbie, Jr NTR|Steven Spielberg|9.5|77.1
+1926|Priya Nair 1926|68|Action, Action / Adventure|Japanese|Allu Arjun, Tom Hanks|Sukumar|7.6|83.6
+1927|John Doe 1927|53|Action / Adventure, Animation|Japanese, English|Vijay, Margot Robbie|Ridley Scott|6.0|94.0
+1928|Alice Smith 1928|34|Drama, Sci-Fi|Korean, French|Choi Min-sik, Scarlett Johansson|Steven Spielberg|6.5|71.4
+1929|Bob Martin 1929|63|Crime, Action|Spanish, English|Shah Rukh Khan, Prabhas|Guillermo del Toro|8.4|96.7
+1930|Emma Watson 1930|52|Romance, Action|Korean, English|Margot Robbie, Allu Arjun|Steven Spielberg|7.2|81.8
+1931|Kavya Krishnan 1931|26|Animation / Adventure, Action / Sci-Fi|Tamil, Korean|Christian Bale, Shah Rukh Khan|Hayao Miyazaki|9.2|73.5
+1932|Rohan Gupta 1932|67|Animation / Adventure, Sci-Fi / Thriller|Telugu, Hindi|Leonardo DiCaprio, Choi Min-sik|Greta Gerwig|7.4|75.2
+1933|Deepak Chopra 1933|64|Horror, Action / Adventure|English|Brad Pitt, Allu Arjun|Denis Villeneuve|6.3|73.2
+1934|Ananya Deshmukh 1934|29|Crime, Drama|French, Tamil|Margot Robbie, Leonardo DiCaprio|Martin Scorsese|6.4|86.4
+1935|David Miller 1935|62|Horror / Thriller, Comedy|French, Spanish|Christian Bale, Samantha Ruth Prabhu|Lokesh Kanagaraj|7.1|88.6
+1936|Aarav Sharma 1936|66|Action / Sci-Fi, Comedy|English, Korean|Christian Bale, Prabhas|Quentin Tarantino|7.6|93.7
+1937|Aditi Rao 1937|50|Action / Adventure, Adventure|French, Spanish|Allu Arjun, Robert Downey Jr|Hayao Miyazaki|8.2|78.7
+1938|Rahul Varma 1938|24|Adventure, Comedy|Tamil, Korean|Scarlett Johansson, Allu Arjun|David Fincher|7.4|88.4
+1939|Sneha Patel 1939|57|Animation / Adventure, Sci-Fi|Tamil|Choi Min-sik, Robert Downey Jr|Guillermo del Toro|8.6|95.6
+1940|Vikram Reddy 1940|60|Drama / Romance, Adventure|Hindi|Shah Rukh Khan, Scarlett Johansson|Greta Gerwig|7.7|79.8
+1941|Priya Nair 1941|69|Animation, Drama / Romance|Telugu, English|Choi Min-sik, Scarlett Johansson|Greta Gerwig|6.2|92.9
+1942|John Doe 1942|23|Drama, Fantasy|Spanish, Hindi|Jr NTR, Margot Robbie|Steven Spielberg|9.0|96.4
+1943|Alice Smith 1943|35|Comedy, Action / Sci-Fi|Telugu|Choi Min-sik, Margot Robbie|Quentin Tarantino|9.5|72.1
+1944|Bob Martin 1944|57|Animation / Adventure, Romance|Korean, Telugu|Shah Rukh Khan, Deepika Padukone|Anurag Kashyap|6.7|84.2
+1945|Emma Watson 1945|36|Drama / Romance, Sci-Fi / Thriller|Korean, Japanese|Leonardo DiCaprio, Prabhas|Ridley Scott|6.9|91.2
+1946|Kavya Krishnan 1946|18|Drama / Romance, Action|Tamil, Spanish|Song Kang-ho, Song Kang-ho|Prashanth Neel|9.1|88.4
+1947|Rohan Gupta 1947|18|Romance, Action|English, Tamil|Allu Arjun, Cillian Murphy|James Cameron|7.0|86.5
+1948|Deepak Chopra 1948|59|Drama, Animation / Adventure|Tamil, French|Brad Pitt, Emma Stone|S.S. Rajamouli|6.9|87.6
+1949|Ananya Deshmukh 1949|39|Romance, Documentary|Telugu, Tamil|Vijay, Prabhas|David Fincher|7.0|79.6
+1950|David Miller 1950|65|Documentary, Comedy|Tamil, French|Christian Bale, Ram Charan|James Cameron|6.3|70.6
+1951|Aarav Sharma 1951|63|Comedy / Drama, Crime|Korean, Hindi|Vijay, Robert Downey Jr|Lokesh Kanagaraj|9.4|97.5
+1952|Aditi Rao 1952|19|Fantasy, Sci-Fi|Tamil, Spanish|Margot Robbie, Ram Charan|James Cameron|8.3|87.2
+1953|Rahul Varma 1953|53|Crime, Action|Tamil, Korean|Scarlett Johansson, Choi Min-sik|Denis Villeneuve|8.0|87.9
+1954|Sneha Patel 1954|26|Sci-Fi, Action|Spanish, Tamil|Leonardo DiCaprio, Tom Hanks|Mani Ratnam|6.6|81.0
+1955|Vikram Reddy 1955|37|Sci-Fi / Thriller, Adventure|Tamil, Hindi|Samantha Ruth Prabhu, Shah Rukh Khan|Mani Ratnam|8.1|96.5
+1956|Priya Nair 1956|68|Crime / Thriller, Sci-Fi|Spanish, French|Ram Charan, Cillian Murphy|David Fincher|6.9|85.5
+1957|John Doe 1957|53|Fantasy, Crime / Thriller|Telugu, Hindi|Allu Arjun, Choi Min-sik|Denis Villeneuve|9.1|86.8
+1958|Alice Smith 1958|62|Horror / Thriller, Sci-Fi / Thriller|French, Korean|Christian Bale, Ram Charan|Mani Ratnam|6.6|94.0
+1959|Bob Martin 1959|31|Action / Adventure, Adventure|French, Telugu|Leonardo DiCaprio, Scarlett Johansson|Bong Joon-ho|6.3|82.1
+1960|Emma Watson 1960|60|Thriller, Drama / Romance|Hindi, Japanese|Leonardo DiCaprio, Margot Robbie|Denis Villeneuve|9.2|76.3
+1961|Kavya Krishnan 1961|48|Drama, Horror / Thriller|Hindi, Telugu|Brad Pitt, Emma Stone|James Cameron|7.6|89.5
+1962|Rohan Gupta 1962|57|Animation / Adventure, Comedy / Drama|Japanese|Shah Rukh Khan, Jr NTR|S.S. Rajamouli|7.6|82.3
+1963|Deepak Chopra 1963|29|Comedy, Action / Adventure|English, Telugu|Emma Stone, Scarlett Johansson|Mani Ratnam|9.1|86.5
+1964|Ananya Deshmukh 1964|65|Horror / Thriller, Thriller|Hindi, English|Samantha Ruth Prabhu, Margot Robbie|Prashanth Neel|7.1|96.3
+1965|David Miller 1965|56|Action / Sci-Fi, Drama|Hindi, French|Prabhas, Song Kang-ho|Bong Joon-ho|7.6|95.5
+1966|Aarav Sharma 1966|32|Comedy, Animation / Adventure|Japanese, Hindi|Song Kang-ho, Prabhas|S.S. Rajamouli|7.6|92.8
+1967|Aditi Rao 1967|66|Adventure, Drama|Spanish|Allu Arjun, Allu Arjun|Steven Spielberg|8.7|78.2
+1968|Rahul Varma 1968|53|Sci-Fi / Thriller, Crime|Spanish|Emma Stone, Shah Rukh Khan|Greta Gerwig|6.3|73.4
+1969|Sneha Patel 1969|25|Documentary, Comedy|Spanish, English|Brad Pitt, Christian Bale|Prashanth Neel|8.4|96.3
+1970|Vikram Reddy 1970|69|Action, Action / Adventure|French, Telugu|Deepika Padukone, Margot Robbie|Christopher Nolan|8.6|84.3
+1971|Priya Nair 1971|50|Sci-Fi / Thriller, Action / Sci-Fi|Telugu|Margot Robbie, Robert Downey Jr|Anurag Kashyap|6.0|89.6
+1972|John Doe 1972|63|Action / Sci-Fi, Romance|French, Spanish|Brad Pitt, Choi Min-sik|James Cameron|8.3|78.4
+1973|Alice Smith 1973|68|Sci-Fi, Thriller|Spanish, Korean|Jr NTR, Christian Bale|Martin Scorsese|6.5|75.9
+1974|Bob Martin 1974|31|Action / Sci-Fi, Sci-Fi|Spanish, Tamil|Robert Downey Jr, Ram Charan|Lokesh Kanagaraj|9.2|94.1
+1975|Emma Watson 1975|61|Crime, Sci-Fi|Tamil, Spanish|Ram Charan, Margot Robbie|Bong Joon-ho|6.1|90.2
+1976|Kavya Krishnan 1976|40|Action / Adventure, Comedy / Drama|French, Japanese|Cillian Murphy, Vijay|Bong Joon-ho|7.8|86.3
+1977|Rohan Gupta 1977|38|Horror / Thriller, Thriller|Telugu, English|Jr NTR, Choi Min-sik|Christopher Nolan|9.1|93.1
+1978|Deepak Chopra 1978|20|Romance, Comedy / Drama|Korean, Hindi|Christian Bale, Cillian Murphy|Denis Villeneuve|8.5|90.1
+1979|Ananya Deshmukh 1979|26|Comedy / Drama|English, Telugu|Deepika Padukone, Samantha Ruth Prabhu|Greta Gerwig|8.7|84.7
+1980|David Miller 1980|51|Action / Adventure, Animation / Adventure|Spanish, Hindi|Song Kang-ho, Ram Charan|Guillermo del Toro|7.2|71.9
+1981|Aarav Sharma 1981|52|Thriller, Animation / Adventure|Telugu, Spanish|Cillian Murphy, Scarlett Johansson|Denis Villeneuve|7.8|76.7
+1982|Aditi Rao 1982|69|Horror / Thriller, Action|Korean, Telugu|Robert Downey Jr, Robert Downey Jr|Steven Spielberg|6.5|90.5
+1983|Rahul Varma 1983|52|Drama, Adventure|Spanish, French|Choi Min-sik, Robert Downey Jr|Prashanth Neel|6.8|87.2
+1984|Sneha Patel 1984|67|Romance, Horror / Thriller|English, French|Vijay, Song Kang-ho|Lokesh Kanagaraj|9.1|82.6
+1985|Vikram Reddy 1985|53|Comedy / Drama, Sci-Fi / Thriller|Japanese, Hindi|Tom Hanks, Margot Robbie|Mani Ratnam|7.7|72.6
+1986|Priya Nair 1986|29|Comedy / Drama, Action|French|Jr NTR, Tom Hanks|Denis Villeneuve|6.7|94.5
+1987|John Doe 1987|39|Animation / Adventure, Action|Telugu, English|Choi Min-sik, Tom Hanks|Bong Joon-ho|6.0|88.1
+1988|Alice Smith 1988|56|Thriller, Horror|Hindi, Japanese|Deepika Padukone, Scarlett Johansson|Sukumar|8.7|83.2
+1989|Bob Martin 1989|65|Fantasy, Horror / Thriller|French, Hindi|Vijay, Tom Hanks|Denis Villeneuve|6.3|93.6
+1990|Emma Watson 1990|19|Adventure, Documentary|English, Telugu|Cillian Murphy, Jr NTR|Guillermo del Toro|6.5|74.8
+1991|Kavya Krishnan 1991|34|Sci-Fi|Korean, Spanish|Choi Min-sik, Tom Hanks|Bong Joon-ho|6.2|84.0
+1992|Rohan Gupta 1992|29|Comedy / Drama, Documentary|Spanish|Scarlett Johansson, Shah Rukh Khan|Martin Scorsese|7.4|71.6
+1993|Deepak Chopra 1993|59|Adventure, Animation|English, Tamil|Ram Charan, Christian Bale|Mani Ratnam|7.2|94.9
+1994|Ananya Deshmukh 1994|24|Crime / Thriller, Crime|Spanish, French|Christian Bale, Christian Bale|Lokesh Kanagaraj|8.8|81.7
+1995|David Miller 1995|22|Comedy / Drama, Animation|Hindi, Tamil|Margot Robbie, Choi Min-sik|Guillermo del Toro|7.6|73.3
+1996|Aarav Sharma 1996|54|Animation, Sci-Fi / Thriller|Tamil, Japanese|Prabhas, Prabhas|Christopher Nolan|7.8|71.0
+1997|Aditi Rao 1997|38|Animation, Drama|Japanese, Tamil|Margot Robbie, Brad Pitt|Ridley Scott|8.0|81.7
+1998|Rahul Varma 1998|42|Animation, Comedy|Korean, Spanish|Brad Pitt, Emma Stone|Steven Spielberg|8.5|85.0
+1999|Sneha Patel 1999|20|Action / Adventure, Sci-Fi / Thriller|English, Japanese|Ram Charan, Scarlett Johansson|Lokesh Kanagaraj|7.2|98.7
+2000|Vikram Reddy 2000|42|Horror, Sci-Fi / Thriller|Korean, English|Brad Pitt, Scarlett Johansson|James Cameron|8.4|77.5

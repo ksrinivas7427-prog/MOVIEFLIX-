@@ -1,0 +1,100 @@
+801|Priya Nair 801|39|Animation, Sci-Fi|Tamil, English|Choi Min-sik, Song Kang-ho|Ridley Scott|7.6|97.7
+802|John Doe 802|29|Sci-Fi, Drama|French, Japanese|Ram Charan, Song Kang-ho|S.S. Rajamouli|6.5|81.4
+803|Alice Smith 803|41|Crime / Thriller, Comedy / Drama|Japanese, Spanish|Cillian Murphy, Scarlett Johansson|Sukumar|7.9|82.7
+804|Bob Martin 804|59|Romance, Horror / Thriller|English, Hindi|Shah Rukh Khan, Scarlett Johansson|Sukumar|6.7|82.8
+805|Emma Watson 805|56|Animation, Sci-Fi / Thriller|Hindi, Japanese|Choi Min-sik, Emma Stone|Steven Spielberg|8.9|71.9
+806|Kavya Krishnan 806|58|Adventure, Action|Telugu, Korean|Scarlett Johansson, Allu Arjun|Mani Ratnam|9.5|93.6
+807|Rohan Gupta 807|20|Comedy, Drama|French, Tamil|Ram Charan, Robert Downey Jr|Anurag Kashyap|9.0|75.4
+808|Deepak Chopra 808|20|Drama, Action / Sci-Fi|Spanish, English|Shah Rukh Khan, Jr NTR|Bong Joon-ho|9.1|94.5
+809|Ananya Deshmukh 809|64|Crime / Thriller, Action / Sci-Fi|Spanish, Hindi|Brad Pitt, Choi Min-sik|Steven Spielberg|6.5|90.7
+810|David Miller 810|33|Documentary, Drama|Spanish, Hindi|Margot Robbie, Choi Min-sik|Martin Scorsese|8.8|75.8
+811|Aarav Sharma 811|35|Documentary, Horror|Telugu, English|Ram Charan, Deepika Padukone|Martin Scorsese|8.2|80.8
+812|Aditi Rao 812|58|Comedy, Documentary|Korean, Spanish|Emma Stone, Shah Rukh Khan|Quentin Tarantino|8.2|77.7
+813|Rahul Varma 813|25|Documentary, Thriller|Tamil, French|Choi Min-sik, Scarlett Johansson|Lokesh Kanagaraj|8.3|88.2
+814|Sneha Patel 814|42|Drama, Action|Korean|Allu Arjun, Shah Rukh Khan|Bong Joon-ho|8.9|96.3
+815|Vikram Reddy 815|41|Horror, Comedy|Japanese, Hindi|Christian Bale, Leonardo DiCaprio|Hayao Miyazaki|6.9|76.2
+816|Priya Nair 816|26|Romance, Sci-Fi / Thriller|Korean|Allu Arjun, Shah Rukh Khan|S.S. Rajamouli|8.3|79.0
+817|John Doe 817|47|Horror, Thriller|English, Japanese|Cillian Murphy, Shah Rukh Khan|Ridley Scott|7.2|95.3
+818|Alice Smith 818|39|Action / Adventure, Animation / Adventure|Telugu, Japanese|Jr NTR, Tom Hanks|Anurag Kashyap|7.3|97.7
+819|Bob Martin 819|42|Drama / Romance, Sci-Fi|Japanese, English|Scarlett Johansson, Song Kang-ho|Steven Spielberg|8.5|73.3
+820|Emma Watson 820|54|Drama / Romance, Horror|Japanese, English|Robert Downey Jr, Allu Arjun|Sukumar|6.8|80.1
+821|Kavya Krishnan 821|54|Crime, Action / Sci-Fi|English, Tamil|Leonardo DiCaprio, Ram Charan|Ridley Scott|8.6|95.7
+822|Rohan Gupta 822|53|Adventure, Action / Adventure|Japanese, Korean|Emma Stone, Song Kang-ho|James Cameron|8.6|94.2
+823|Deepak Chopra 823|22|Sci-Fi / Thriller|Korean, Hindi|Scarlett Johansson, Margot Robbie|James Cameron|8.3|95.3
+824|Ananya Deshmukh 824|19|Horror, Adventure|English, Hindi|Scarlett Johansson, Jr NTR|Mani Ratnam|8.7|96.3
+825|David Miller 825|37|Animation, Horror|Japanese|Prabhas, Christian Bale|David Fincher|9.2|83.6
+826|Aarav Sharma 826|47|Documentary, Crime|Japanese, English|Shah Rukh Khan, Emma Stone|Denis Villeneuve|7.2|86.3
+827|Aditi Rao 827|19|Horror, Drama|Spanish, English|Brad Pitt, Robert Downey Jr|Martin Scorsese|9.0|93.2
+828|Rahul Varma 828|31|Action, Animation / Adventure|Hindi, English|Deepika Padukone, Shah Rukh Khan|Guillermo del Toro|6.7|89.9
+829|Sneha Patel 829|55|Action / Adventure, Animation / Adventure|Korean|Cillian Murphy, Leonardo DiCaprio|James Cameron|7.5|70.0
+830|Vikram Reddy 830|49|Animation / Adventure, Action / Sci-Fi|Japanese, Tamil|Deepika Padukone, Allu Arjun|Lokesh Kanagaraj|9.3|73.6
+831|Priya Nair 831|46|Thriller, Documentary|Korean, Spanish|Vijay, Allu Arjun|Guillermo del Toro|7.5|87.9
+832|John Doe 832|40|Animation, Adventure|French, Korean|Emma Stone, Vijay|Christopher Nolan|6.4|97.6
+833|Alice Smith 833|69|Horror, Animation / Adventure|Hindi, Telugu|Tom Hanks, Deepika Padukone|Christopher Nolan|7.0|79.7
+834|Bob Martin 834|54|Animation, Horror|Japanese, Telugu|Christian Bale, Samantha Ruth Prabhu|Hayao Miyazaki|9.0|85.1
+835|Emma Watson 835|26|Drama / Romance, Romance|Tamil, Korean|Vijay, Prabhas|Steven Spielberg|9.3|78.9
+836|Kavya Krishnan 836|21|Drama / Romance, Sci-Fi / Thriller|Tamil, Telugu|Emma Stone, Choi Min-sik|David Fincher|8.8|75.1
+837|Rohan Gupta 837|34|Romance, Comedy / Drama|English, Spanish|Choi Min-sik, Shah Rukh Khan|Lokesh Kanagaraj|7.6|74.6
+838|Deepak Chopra 838|25|Animation, Adventure|Korean, English|Margot Robbie, Margot Robbie|Bong Joon-ho|7.6|71.5
+839|Ananya Deshmukh 839|62|Thriller, Action / Adventure|Japanese, Hindi|Christian Bale, Cillian Murphy|Mani Ratnam|8.7|76.5
+840|David Miller 840|19|Sci-Fi / Thriller, Crime|Telugu, Spanish|Christian Bale, Vijay|Martin Scorsese|8.8|73.5
+841|Aarav Sharma 841|24|Sci-Fi / Thriller, Animation|Spanish, Tamil|Prabhas, Deepika Padukone|James Cameron|7.9|93.1
+842|Aditi Rao 842|62|Romance, Sci-Fi / Thriller|French, Hindi|Song Kang-ho, Song Kang-ho|Hayao Miyazaki|7.0|86.8
+843|Rahul Varma 843|62|Sci-Fi, Action|Korean, Hindi|Vijay, Robert Downey Jr|Quentin Tarantino|9.4|74.2
+844|Sneha Patel 844|33|Sci-Fi / Thriller, Adventure|English, Korean|Margot Robbie, Samantha Ruth Prabhu|James Cameron|6.6|94.4
+845|Vikram Reddy 845|29|Documentary, Crime|Korean, Japanese|Ram Charan, Ram Charan|Steven Spielberg|7.5|89.9
+846|Priya Nair 846|69|Fantasy|Hindi|Tom Hanks, Christian Bale|S.S. Rajamouli|8.5|95.9
+847|John Doe 847|65|Action, Crime / Thriller|Japanese, Korean|Choi Min-sik, Deepika Padukone|Greta Gerwig|9.1|72.0
+848|Alice Smith 848|29|Romance, Documentary|French, Tamil|Choi Min-sik, Leonardo DiCaprio|Denis Villeneuve|7.8|76.2
+849|Bob Martin 849|50|Action / Adventure, Romance|Korean, Japanese|Scarlett Johansson, Deepika Padukone|Quentin Tarantino|6.7|71.8
+850|Emma Watson 850|21|Sci-Fi / Thriller, Romance|Telugu, Japanese|Cillian Murphy, Cillian Murphy|Ridley Scott|8.7|83.0
+851|Kavya Krishnan 851|48|Adventure, Crime / Thriller|Spanish, Korean|Prabhas, Vijay|Ridley Scott|8.6|97.3
+852|Rohan Gupta 852|37|Crime / Thriller|Japanese, Telugu|Ram Charan, Deepika Padukone|Mani Ratnam|8.8|70.3
+853|Deepak Chopra 853|45|Fantasy, Horror / Thriller|Telugu, Korean|Robert Downey Jr, Allu Arjun|Denis Villeneuve|8.1|86.3
+854|Ananya Deshmukh 854|25|Documentary, Action|Telugu, English|Brad Pitt, Ram Charan|Bong Joon-ho|8.4|70.9
+855|David Miller 855|61|Action, Documentary|Tamil, Hindi|Ram Charan, Christian Bale|S.S. Rajamouli|9.5|89.1
+856|Aarav Sharma 856|63|Documentary, Sci-Fi|Hindi, Spanish|Choi Min-sik, Cillian Murphy|S.S. Rajamouli|8.1|88.4
+857|Aditi Rao 857|31|Thriller, Sci-Fi|Spanish, Telugu|Samantha Ruth Prabhu, Robert Downey Jr|Denis Villeneuve|9.3|92.1
+858|Rahul Varma 858|66|Sci-Fi, Animation / Adventure|Tamil, Spanish|Ram Charan, Ram Charan|David Fincher|7.8|75.0
+859|Sneha Patel 859|23|Sci-Fi, Drama|Tamil, English|Ram Charan, Song Kang-ho|Lokesh Kanagaraj|7.7|97.3
+860|Vikram Reddy 860|19|Horror / Thriller, Action / Sci-Fi|Spanish, Telugu|Allu Arjun, Margot Robbie|Quentin Tarantino|8.1|98.5
+861|Priya Nair 861|57|Action, Drama / Romance|Spanish|Scarlett Johansson, Christian Bale|Prashanth Neel|8.7|95.5
+862|John Doe 862|66|Sci-Fi, Fantasy|Hindi, Japanese|Allu Arjun, Brad Pitt|S.S. Rajamouli|7.5|81.7
+863|Alice Smith 863|40|Action / Adventure|French|Robert Downey Jr, Jr NTR|Martin Scorsese|7.9|99.0
+864|Bob Martin 864|44|Animation|Korean, Telugu|Cillian Murphy, Deepika Padukone|Martin Scorsese|7.0|73.7
+865|Emma Watson 865|50|Crime|Spanish, Japanese|Leonardo DiCaprio, Song Kang-ho|Martin Scorsese|7.1|74.9
+866|Kavya Krishnan 866|21|Romance, Comedy / Drama|French, Spanish|Robert Downey Jr, Tom Hanks|Anurag Kashyap|9.1|86.5
+867|Rohan Gupta 867|37|Fantasy, Comedy / Drama|Japanese, English|Emma Stone, Jr NTR|Prashanth Neel|6.4|72.3
+868|Deepak Chopra 868|22|Documentary, Crime|Spanish, Hindi|Robert Downey Jr, Allu Arjun|Mani Ratnam|8.6|90.4
+869|Ananya Deshmukh 869|66|Animation, Romance|Spanish, English|Cillian Murphy, Shah Rukh Khan|Sukumar|6.9|90.6
+870|David Miller 870|42|Documentary, Action|English, Tamil|Ram Charan, Ram Charan|Sukumar|7.6|95.1
+871|Aarav Sharma 871|34|Sci-Fi, Adventure|English|Prabhas, Brad Pitt|Martin Scorsese|7.5|77.3
+872|Aditi Rao 872|28|Sci-Fi / Thriller, Comedy|Japanese, Tamil|Jr NTR, Christian Bale|Hayao Miyazaki|9.2|77.4
+873|Rahul Varma 873|60|Action / Adventure, Horror|Tamil, Japanese|Jr NTR, Ram Charan|Mani Ratnam|6.5|87.9
+874|Sneha Patel 874|22|Thriller, Horror|Korean, Japanese|Christian Bale, Leonardo DiCaprio|Prashanth Neel|7.7|79.5
+875|Vikram Reddy 875|60|Horror, Comedy / Drama|French, Hindi|Allu Arjun, Christian Bale|Mani Ratnam|7.3|73.0
+876|Priya Nair 876|18|Documentary, Drama / Romance|Telugu, Tamil|Shah Rukh Khan, Deepika Padukone|Prashanth Neel|6.7|96.4
+877|John Doe 877|52|Action / Adventure, Sci-Fi|Spanish, Korean|Prabhas, Samantha Ruth Prabhu|Prashanth Neel|9.4|96.6
+878|Alice Smith 878|63|Comedy, Comedy / Drama|Hindi, English|Scarlett Johansson, Margot Robbie|Denis Villeneuve|7.6|95.1
+879|Bob Martin 879|56|Adventure, Horror / Thriller|Hindi, English|Margot Robbie, Scarlett Johansson|Guillermo del Toro|9.4|75.0
+880|Emma Watson 880|67|Romance, Action / Sci-Fi|Hindi, Spanish|Jr NTR, Vijay|Steven Spielberg|8.7|72.9
+881|Kavya Krishnan 881|20|Thriller, Action / Sci-Fi|Hindi|Tom Hanks, Christian Bale|S.S. Rajamouli|6.1|86.5
+882|Rohan Gupta 882|33|Comedy, Crime|Hindi|Samantha Ruth Prabhu, Brad Pitt|Bong Joon-ho|8.9|75.1
+883|Deepak Chopra 883|40|Sci-Fi / Thriller, Action|English, Tamil|Jr NTR, Leonardo DiCaprio|Ridley Scott|8.6|77.0
+884|Ananya Deshmukh 884|47|Sci-Fi, Animation / Adventure|Telugu, English|Leonardo DiCaprio, Choi Min-sik|Christopher Nolan|6.1|77.8
+885|David Miller 885|58|Sci-Fi / Thriller, Thriller|Telugu, Spanish|Ram Charan, Scarlett Johansson|Guillermo del Toro|9.1|81.2
+886|Aarav Sharma 886|32|Action / Sci-Fi, Crime / Thriller|Telugu, English|Tom Hanks, Allu Arjun|David Fincher|8.7|70.3
+887|Aditi Rao 887|30|Crime, Comedy|French, English|Emma Stone, Song Kang-ho|David Fincher|7.2|95.9
+888|Rahul Varma 888|49|Documentary, Horror|Japanese, Tamil|Scarlett Johansson, Leonardo DiCaprio|Ridley Scott|7.4|90.6
+889|Sneha Patel 889|36|Adventure, Drama / Romance|Spanish, Hindi|Emma Stone, Samantha Ruth Prabhu|Quentin Tarantino|8.2|95.1
+890|Vikram Reddy 890|47|Fantasy, Crime|Spanish, Hindi|Leonardo DiCaprio, Christian Bale|Anurag Kashyap|6.4|90.6
+891|Priya Nair 891|46|Action / Sci-Fi, Romance|Spanish, Japanese|Emma Stone, Margot Robbie|Martin Scorsese|6.3|96.5
+892|John Doe 892|69|Action / Adventure, Animation / Adventure|English, Telugu|Jr NTR, Allu Arjun|Guillermo del Toro|7.0|70.4
+893|Alice Smith 893|65|Sci-Fi, Action / Adventure|Telugu, Tamil|Choi Min-sik, Jr NTR|Prashanth Neel|7.5|74.7
+894|Bob Martin 894|37|Crime / Thriller, Horror / Thriller|Japanese, French|Vijay, Margot Robbie|Bong Joon-ho|7.4|98.6
+895|Emma Watson 895|60|Drama, Romance|Hindi, Korean|Brad Pitt, Tom Hanks|Mani Ratnam|8.2|83.2
+896|Kavya Krishnan 896|23|Fantasy, Horror / Thriller|Japanese, Korean|Allu Arjun, Emma Stone|Prashanth Neel|7.5|92.7
+897|Rohan Gupta 897|61|Fantasy, Action / Sci-Fi|Tamil, French|Ram Charan, Deepika Padukone|Hayao Miyazaki|9.0|89.4
+898|Deepak Chopra 898|46|Animation, Thriller|Hindi, Japanese|Brad Pitt, Tom Hanks|Christopher Nolan|8.1|78.4
+899|Ananya Deshmukh 899|50|Horror, Sci-Fi|Spanish, Telugu|Brad Pitt, Emma Stone|Lokesh Kanagaraj|9.3|70.3
+900|David Miller 900|53|Animation, Action / Adventure|Japanese, Hindi|Cillian Murphy, Robert Downey Jr|Lokesh Kanagaraj|8.3|86.0

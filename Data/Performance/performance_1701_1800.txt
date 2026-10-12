@@ -1,0 +1,100 @@
+1701|1878|Galaxy|year|1931|2|Searching
+1702|1136|Avatar|duration|1774|4|Hashing
+1703|428|Iron|rating|1946|1|DP
+1704|584|Baahubali|popularity|927|8|Network Flow
+1705|1398|Baahubali|duration|1442|4|DP
+1706|1028|Vikram|year|1925|8|Trees
+1707|2232|War|popularity|2162|8|Network Flow
+1708|1843|Baahubali|duration|563|4|Network Flow
+1709|780|Iron|title|972|8|DP
+1710|2114|Baahubali|title|1244|2|DP
+1711|1176|Knight|duration|987|8|DP
+1712|374|Galaxy|title|1449|2|Parallel
+1713|1586|Baahubali|year|312|2|Parallel
+1714|808|Galaxy|rating|999|1|String Matching
+1715|441|Baahubali|year|630|4|String Matching
+1716|250|Avatar|duration|2158|2|String Matching
+1717|2108|Knight|popularity|1580|2|Searching
+1718|655|Iron|popularity|1995|8|Trees
+1719|2493|Avatar|title|1302|8|String Matching
+1720|971|Avenger|year|473|1|String Matching
+1721|833|Iron|popularity|2378|1|Sorting
+1722|905|Galaxy|rating|1912|2|Hashing
+1723|1319|Vikram|title|1373|4|Trees
+1724|1574|Baahubali|year|2234|4|String Matching
+1725|2195|Knight|duration|1533|8|String Matching
+1726|755|Vikram|title|100|8|String Matching
+1727|340|Knight|title|1898|8|String Matching
+1728|1495|Knight|rating|1837|8|Trees
+1729|2330|War|rating|1855|1|Network Flow
+1730|1375|Baahubali|rating|2387|4|Searching
+1731|451|Iron|rating|406|2|Sorting
+1732|2338|Vikram|popularity|2224|2|String Matching
+1733|2120|Dark|year|884|8|Searching
+1734|1749|Vikram|title|1733|4|Parallel
+1735|972|Knight|year|2122|4|DP
+1736|2244|Iron|popularity|2220|4|Hashing
+1737|449|Star|popularity|2166|1|String Matching
+1738|328|Vikram|year|865|2|Parallel
+1739|1187|War|title|1977|1|String Matching
+1740|1838|Iron|rating|1284|2|Searching
+1741|1178|Vikram|rating|1249|2|Sorting
+1742|2093|Avenger|popularity|1045|8|Searching
+1743|1409|Star|rating|1503|2|Hashing
+1744|888|Iron|popularity|543|1|String Matching
+1745|2169|Avenger|duration|1803|1|Hashing
+1746|1633|Avatar|duration|902|4|Parallel
+1747|747|Vikram|duration|2328|2|Network Flow
+1748|1686|War|year|627|1|String Matching
+1749|774|Avenger|rating|946|1|Network Flow
+1750|374|Dark|title|2044|1|DP
+1751|1237|Dark|year|202|8|String Matching
+1752|388|Avatar|duration|477|8|DP
+1753|1581|Dark|duration|1542|8|Network Flow
+1754|953|Galaxy|rating|2223|4|String Matching
+1755|1763|Iron|year|251|8|Searching
+1756|1652|Dark|title|1607|4|Sorting
+1757|2422|Baahubali|duration|2377|1|Searching
+1758|1848|Dark|duration|1940|2|Trees
+1759|1308|Avenger|popularity|154|4|Hashing
+1760|1369|Galaxy|popularity|453|1|Trees
+1761|2238|War|title|870|1|Hashing
+1762|35|Knight|duration|2376|8|Hashing
+1763|622|Galaxy|popularity|2384|1|Sorting
+1764|1840|Baahubali|title|1288|1|Hashing
+1765|409|Avatar|title|2055|8|String Matching
+1766|1130|Dark|rating|689|1|Parallel
+1767|766|Baahubali|year|1835|4|Searching
+1768|1682|Galaxy|rating|604|8|Sorting
+1769|2183|Galaxy|rating|2030|4|Trees
+1770|2007|War|year|1596|8|String Matching
+1771|643|War|title|907|4|String Matching
+1772|2202|Vikram|title|1982|2|Hashing
+1773|645|Baahubali|rating|2146|1|Searching
+1774|623|Avenger|title|1992|4|Network Flow
+1775|2491|Vikram|popularity|2012|4|Network Flow
+1776|2086|Dark|duration|285|4|Trees
+1777|2239|Baahubali|title|1968|2|String Matching
+1778|1249|War|title|1663|2|Trees
+1779|231|Galaxy|rating|2013|2|Network Flow
+1780|2450|War|duration|2479|8|String Matching
+1781|967|Knight|duration|1940|8|Trees
+1782|712|Dark|title|1502|4|String Matching
+1783|809|Star|year|1146|4|Hashing
+1784|1281|Galaxy|rating|338|8|Searching
+1785|517|Galaxy|rating|2374|8|String Matching
+1786|868|War|duration|1619|8|Parallel
+1787|40|Star|popularity|977|4|Network Flow
+1788|150|Dark|rating|1214|8|Parallel
+1789|260|Vikram|popularity|1566|1|Sorting
+1790|1843|Vikram|title|840|1|Trees
+1791|909|Baahubali|rating|685|4|String Matching
+1792|1839|Star|title|119|8|Network Flow
+1793|594|Star|title|1307|8|String Matching
+1794|1130|Iron|popularity|327|8|Sorting
+1795|2482|Iron|year|2057|4|DP
+1796|455|Avatar|duration|1765|1|DP
+1797|1167|Avenger|title|150|4|DP
+1798|412|Galaxy|duration|831|4|DP
+1799|1290|Vikram|title|709|2|DP
+1800|1359|Dark|rating|1471|8|Network Flow

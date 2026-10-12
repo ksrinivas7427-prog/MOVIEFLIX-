@@ -1,0 +1,100 @@
+801|885|Avenger|popularity|1270|4|DP
+802|1748|Vikram|title|961|1|DP
+803|1102|Avenger|popularity|2109|2|Network Flow
+804|2110|Star|title|1206|2|Searching
+805|292|Galaxy|year|818|1|Parallel
+806|183|Avatar|popularity|295|4|Trees
+807|790|Avatar|title|1590|2|Sorting
+808|1904|Galaxy|year|983|8|String Matching
+809|476|Star|popularity|1524|1|Searching
+810|2177|Baahubali|year|376|8|Trees
+811|2049|Galaxy|rating|1429|2|Network Flow
+812|964|Avenger|year|2116|1|Sorting
+813|1240|Avatar|popularity|1059|4|Trees
+814|367|Avatar|title|1786|2|DP
+815|851|Avatar|popularity|870|1|String Matching
+816|2142|Baahubali|title|1693|8|Trees
+817|2167|Baahubali|rating|2274|1|Hashing
+818|1130|Vikram|duration|256|8|DP
+819|359|Iron|popularity|2382|8|Sorting
+820|1131|Baahubali|duration|1584|2|Trees
+821|1551|Knight|year|428|4|Hashing
+822|2082|Avatar|duration|1362|2|Hashing
+823|2081|Vikram|title|2061|8|Network Flow
+824|982|Star|duration|1889|2|Trees
+825|2240|Iron|duration|2330|2|DP
+826|1877|War|title|1435|8|Searching
+827|1054|Star|popularity|1078|1|Hashing
+828|1610|Knight|title|105|8|Network Flow
+829|1273|Knight|title|423|8|Sorting
+830|2339|War|duration|396|4|Hashing
+831|1333|Iron|rating|1277|8|String Matching
+832|1102|War|title|309|8|DP
+833|1980|Vikram|duration|1784|8|Parallel
+834|2400|Baahubali|duration|2330|8|Trees
+835|70|Knight|title|1917|4|Parallel
+836|422|Knight|duration|1007|8|Sorting
+837|232|Galaxy|rating|868|8|Network Flow
+838|1895|Knight|year|1398|4|Network Flow
+839|2305|Dark|year|2461|2|Trees
+840|355|Galaxy|title|333|2|Network Flow
+841|1777|Knight|popularity|2368|8|Trees
+842|264|Knight|rating|1688|8|DP
+843|2227|Avatar|duration|1203|4|String Matching
+844|1226|Avenger|year|1579|8|Searching
+845|1433|Knight|title|1289|1|Sorting
+846|2361|Iron|popularity|325|4|Searching
+847|190|Avenger|popularity|659|8|DP
+848|2150|War|duration|922|2|Parallel
+849|1488|Star|year|1625|8|DP
+850|1538|War|popularity|845|1|Network Flow
+851|236|Avatar|year|1614|8|Sorting
+852|1233|Baahubali|title|1656|1|Network Flow
+853|1319|War|rating|2093|2|Hashing
+854|1467|War|popularity|657|1|Parallel
+855|1595|Vikram|popularity|1072|4|Hashing
+856|1054|War|duration|335|8|DP
+857|663|Iron|year|1486|1|String Matching
+858|1288|Knight|title|1832|1|Parallel
+859|1692|Iron|duration|1317|8|Searching
+860|115|Galaxy|popularity|523|4|Hashing
+861|694|Knight|duration|2300|4|Network Flow
+862|794|Iron|title|1849|8|Parallel
+863|71|Vikram|rating|399|1|Hashing
+864|1590|Dark|year|1347|2|Trees
+865|1463|Dark|duration|1949|8|DP
+866|1256|War|title|1924|4|Hashing
+867|1020|Vikram|title|545|4|Parallel
+868|1439|Dark|rating|2245|2|DP
+869|260|Knight|duration|2438|1|Parallel
+870|1646|Iron|rating|2435|2|Searching
+871|678|Avatar|popularity|957|1|Hashing
+872|975|Knight|year|2203|2|Hashing
+873|2402|Avenger|popularity|2162|1|Hashing
+874|2465|Vikram|title|1246|4|String Matching
+875|954|Dark|rating|1347|8|DP
+876|2292|Star|duration|1604|1|String Matching
+877|170|Iron|duration|1026|2|Hashing
+878|157|Knight|popularity|290|4|Sorting
+879|1319|Dark|popularity|1133|8|Searching
+880|567|Star|rating|1768|4|Searching
+881|1009|Vikram|duration|1464|8|String Matching
+882|945|Knight|rating|2221|4|String Matching
+883|522|Avatar|year|1826|1|Network Flow
+884|1264|Knight|title|2388|2|Hashing
+885|463|War|duration|723|2|Searching
+886|1235|Knight|title|2395|2|Trees
+887|2406|Iron|popularity|758|2|Searching
+888|578|Dark|rating|2231|8|Searching
+889|1386|Avenger|popularity|2158|8|DP
+890|1769|Iron|duration|226|1|Searching
+891|1008|Iron|rating|942|4|String Matching
+892|575|Iron|popularity|708|8|DP
+893|219|Avenger|duration|1833|1|Trees
+894|2404|Iron|year|2376|8|Sorting
+895|150|Iron|year|2297|8|Searching
+896|1116|Star|year|1802|2|Sorting
+897|1097|Galaxy|popularity|1117|4|Sorting
+898|669|Dark|rating|977|1|Parallel
+899|2199|Star|title|613|2|Sorting
+900|2076|Iron|duration|1034|4|Sorting

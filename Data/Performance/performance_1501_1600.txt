@@ -1,0 +1,100 @@
+1501|1370|War|popularity|1701|2|Network Flow
+1502|2289|Knight|popularity|921|8|DP
+1503|2289|Vikram|title|2411|4|DP
+1504|2097|Avatar|rating|217|2|Trees
+1505|2497|War|popularity|2099|1|Hashing
+1506|1288|Star|rating|2122|4|Network Flow
+1507|671|Avatar|duration|2222|2|Sorting
+1508|1658|Avenger|year|2118|4|Trees
+1509|1431|Avenger|duration|2316|8|Trees
+1510|730|Avenger|title|958|2|Network Flow
+1511|1992|Iron|popularity|840|8|DP
+1512|981|Star|year|1566|1|Network Flow
+1513|1014|Avenger|popularity|167|8|Trees
+1514|547|Knight|rating|1567|1|Parallel
+1515|349|War|year|1625|4|Parallel
+1516|1063|Iron|year|2090|1|String Matching
+1517|1403|Knight|popularity|663|4|DP
+1518|238|War|year|2419|4|Hashing
+1519|909|Star|popularity|542|2|Sorting
+1520|676|Star|year|2178|2|Sorting
+1521|483|Galaxy|rating|2077|4|Network Flow
+1522|1031|Star|year|2365|2|String Matching
+1523|2470|Avenger|popularity|1267|2|Searching
+1524|669|Avenger|title|1603|8|Trees
+1525|1486|Vikram|popularity|2113|8|Hashing
+1526|770|Avenger|duration|918|1|Parallel
+1527|2117|Star|rating|582|2|String Matching
+1528|858|War|year|688|8|Hashing
+1529|1162|Galaxy|title|1602|1|Searching
+1530|2417|Dark|year|2432|4|Searching
+1531|840|Iron|rating|1049|4|Hashing
+1532|1653|Galaxy|year|1694|2|Parallel
+1533|23|Avenger|title|2054|2|Network Flow
+1534|276|Knight|duration|2260|1|Sorting
+1535|241|Star|duration|1226|2|Network Flow
+1536|771|Galaxy|popularity|2015|2|Sorting
+1537|528|Baahubali|duration|289|2|String Matching
+1538|886|Star|rating|1402|2|Searching
+1539|1395|War|title|363|1|Sorting
+1540|1140|Avenger|title|1755|4|Hashing
+1541|943|Knight|title|1854|8|Parallel
+1542|1576|Avatar|duration|1960|4|Parallel
+1543|2331|Star|title|1140|1|Searching
+1544|94|Knight|popularity|398|8|Network Flow
+1545|1691|Avatar|popularity|674|4|Hashing
+1546|1028|Galaxy|duration|1559|2|Sorting
+1547|1786|Vikram|title|2478|2|DP
+1548|1707|Baahubali|popularity|1831|2|String Matching
+1549|232|War|year|1317|4|String Matching
+1550|1306|Avatar|title|421|8|Network Flow
+1551|436|Knight|rating|1506|8|Network Flow
+1552|750|Baahubali|duration|1267|4|Parallel
+1553|1228|Knight|year|1342|8|Searching
+1554|393|Iron|rating|465|4|Sorting
+1555|942|Avenger|title|148|2|String Matching
+1556|89|War|year|356|8|Hashing
+1557|170|Vikram|duration|2238|2|Trees
+1558|973|War|popularity|414|8|Hashing
+1559|22|Dark|year|657|1|String Matching
+1560|1340|Knight|year|1587|1|Sorting
+1561|805|Iron|duration|1505|2|Hashing
+1562|1865|Vikram|year|1089|1|Network Flow
+1563|165|Knight|duration|639|1|Hashing
+1564|1523|Baahubali|popularity|1202|1|Parallel
+1565|1968|Iron|duration|2329|1|Searching
+1566|2316|Avatar|duration|1248|8|Network Flow
+1567|311|Star|rating|1366|8|Hashing
+1568|2426|Dark|duration|547|4|Trees
+1569|59|War|rating|1091|2|Hashing
+1570|1167|Knight|title|2042|2|Hashing
+1571|1976|Knight|title|1571|1|String Matching
+1572|1702|Dark|year|1261|1|Searching
+1573|1419|Dark|popularity|336|1|Parallel
+1574|1608|Avenger|title|1290|1|Network Flow
+1575|771|Vikram|title|1068|4|Hashing
+1576|1263|Avenger|rating|1491|2|Searching
+1577|1116|Galaxy|year|765|8|String Matching
+1578|51|Avatar|duration|1796|1|Parallel
+1579|1433|Vikram|popularity|1553|2|Searching
+1580|951|Galaxy|duration|2110|1|DP
+1581|1708|Iron|duration|597|1|Trees
+1582|560|Avenger|popularity|751|2|Network Flow
+1583|1317|War|duration|1351|2|Parallel
+1584|1969|Avatar|rating|140|1|String Matching
+1585|672|Iron|year|1816|4|String Matching
+1586|2101|Galaxy|rating|884|2|String Matching
+1587|2152|War|title|1743|8|Network Flow
+1588|2042|War|duration|1679|4|Network Flow
+1589|441|Star|title|977|2|Network Flow
+1590|630|Knight|title|473|2|Searching
+1591|981|Galaxy|popularity|1522|4|Parallel
+1592|2273|Dark|popularity|1630|1|Network Flow
+1593|415|Vikram|rating|963|4|DP
+1594|940|Knight|popularity|375|8|Parallel
+1595|1769|Vikram|duration|1550|8|Hashing
+1596|1189|Galaxy|title|548|8|Network Flow
+1597|1513|Baahubali|rating|1506|2|String Matching
+1598|1860|Iron|title|1499|4|String Matching
+1599|471|Avenger|year|1022|2|Parallel
+1600|2396|Galaxy|title|1163|1|Sorting

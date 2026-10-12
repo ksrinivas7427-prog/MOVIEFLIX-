@@ -1,0 +1,100 @@
+1901|303|Galaxy|year|1632|4|String Matching
+1902|1601|Baahubali|rating|1716|4|Parallel
+1903|2045|Vikram|popularity|480|2|Sorting
+1904|1850|Knight|duration|176|1|Hashing
+1905|1840|Baahubali|rating|544|1|DP
+1906|611|Dark|title|374|4|Network Flow
+1907|1914|Baahubali|title|722|8|Network Flow
+1908|545|Knight|title|1143|1|Parallel
+1909|1489|Dark|year|932|2|Searching
+1910|2168|Vikram|popularity|1817|4|String Matching
+1911|849|Iron|rating|653|1|String Matching
+1912|482|Avenger|title|301|4|DP
+1913|862|Avenger|popularity|2023|4|String Matching
+1914|1668|Dark|year|1407|1|Searching
+1915|1629|Knight|popularity|2226|8|Trees
+1916|138|Star|rating|277|1|Parallel
+1917|1325|Iron|duration|1408|4|DP
+1918|1566|Avenger|title|356|1|Network Flow
+1919|1090|Dark|year|1574|8|Parallel
+1920|1505|War|year|1649|2|DP
+1921|1994|War|year|344|4|Parallel
+1922|477|War|duration|1831|2|Parallel
+1923|1225|Knight|rating|298|8|Hashing
+1924|75|Iron|rating|653|8|Trees
+1925|1664|Vikram|rating|1260|8|Trees
+1926|2414|Knight|year|1206|8|Trees
+1927|2097|War|popularity|2188|2|Searching
+1928|1101|Avenger|year|1339|2|String Matching
+1929|1205|Avenger|year|1208|4|Searching
+1930|1415|Galaxy|duration|959|2|Hashing
+1931|182|Avatar|year|1034|8|Trees
+1932|536|Iron|rating|2376|8|Parallel
+1933|2199|Dark|popularity|1806|1|String Matching
+1934|971|Galaxy|duration|2033|2|Sorting
+1935|667|Star|duration|377|8|Parallel
+1936|1463|Iron|title|1409|1|String Matching
+1937|2060|Avenger|title|1372|1|Hashing
+1938|424|War|title|705|1|Sorting
+1939|1690|Baahubali|year|1365|2|Hashing
+1940|436|Avenger|popularity|259|2|Parallel
+1941|1760|Galaxy|popularity|1100|8|String Matching
+1942|510|Baahubali|duration|1615|8|Hashing
+1943|1638|Dark|title|2384|2|Hashing
+1944|359|Baahubali|year|2170|4|Searching
+1945|180|Baahubali|duration|1875|1|Searching
+1946|2260|Avenger|popularity|805|4|Searching
+1947|1690|Star|rating|753|1|Network Flow
+1948|2307|Vikram|duration|551|1|DP
+1949|1298|Vikram|year|891|1|String Matching
+1950|1890|Star|year|644|2|Sorting
+1951|440|War|year|1541|1|Trees
+1952|806|Star|duration|898|1|Trees
+1953|1365|War|title|2449|4|Network Flow
+1954|238|Avenger|popularity|2172|4|DP
+1955|346|Galaxy|popularity|694|1|Sorting
+1956|325|Knight|rating|370|2|Searching
+1957|1167|Avenger|duration|231|2|Hashing
+1958|1510|Vikram|year|268|2|Network Flow
+1959|296|War|duration|254|4|Hashing
+1960|1870|Baahubali|rating|389|8|Sorting
+1961|1221|Dark|title|2050|2|Searching
+1962|1450|War|rating|1177|8|Sorting
+1963|880|Knight|rating|430|1|Network Flow
+1964|204|Avenger|rating|913|8|Sorting
+1965|1984|Baahubali|year|136|2|Sorting
+1966|2009|War|rating|1861|4|Searching
+1967|1383|Avatar|duration|1136|1|DP
+1968|1234|Baahubali|rating|2369|1|Network Flow
+1969|920|Avenger|title|1970|8|Sorting
+1970|123|Galaxy|year|2288|2|Parallel
+1971|1120|Vikram|year|2247|4|DP
+1972|2256|Iron|title|2275|8|Searching
+1973|1167|Baahubali|duration|1774|4|String Matching
+1974|1564|Galaxy|rating|2430|2|Parallel
+1975|1748|Avatar|title|1285|4|Trees
+1976|2264|Dark|duration|1855|8|Trees
+1977|1766|Knight|year|2408|2|Parallel
+1978|1694|Knight|year|1101|2|Hashing
+1979|437|Dark|duration|287|1|Searching
+1980|802|Vikram|year|2282|4|Hashing
+1981|674|Dark|popularity|100|1|Hashing
+1982|1345|Vikram|popularity|1804|4|Hashing
+1983|290|Knight|rating|949|2|String Matching
+1984|1221|Star|title|1101|4|DP
+1985|1838|Vikram|rating|2060|8|String Matching
+1986|737|Baahubali|year|987|8|Searching
+1987|1220|Avatar|popularity|704|8|String Matching
+1988|883|War|duration|1743|2|Sorting
+1989|1406|Baahubali|title|2348|8|DP
+1990|424|Avatar|duration|1196|8|Parallel
+1991|182|Galaxy|rating|1002|4|Network Flow
+1992|1176|Star|duration|2259|8|Trees
+1993|800|Knight|title|345|2|String Matching
+1994|2152|Dark|title|1626|4|String Matching
+1995|2424|Avatar|year|404|1|Hashing
+1996|344|Avenger|duration|321|8|Sorting
+1997|2116|Avenger|duration|1046|1|Parallel
+1998|813|Avenger|rating|1176|4|Searching
+1999|53|War|popularity|1976|4|Network Flow
+2000|1400|Star|year|2419|4|Sorting

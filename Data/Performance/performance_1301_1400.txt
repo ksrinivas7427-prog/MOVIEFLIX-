@@ -1,0 +1,100 @@
+1301|507|Iron|rating|1522|1|DP
+1302|953|Iron|popularity|546|8|Searching
+1303|1436|Knight|year|197|4|Searching
+1304|2332|Galaxy|popularity|338|4|String Matching
+1305|1165|Baahubali|year|1054|2|Searching
+1306|1213|Star|duration|971|4|Sorting
+1307|1948|Vikram|title|958|4|Parallel
+1308|1824|War|rating|1514|1|Hashing
+1309|2414|Knight|rating|263|4|Parallel
+1310|1840|Knight|title|1067|1|Searching
+1311|1618|Avatar|duration|2037|1|Hashing
+1312|1040|Avenger|duration|940|2|Hashing
+1313|1783|Galaxy|popularity|477|8|DP
+1314|138|Iron|duration|1938|2|Network Flow
+1315|907|Vikram|year|387|8|Hashing
+1316|1010|Star|popularity|334|8|Searching
+1317|1502|Star|rating|1799|4|Sorting
+1318|94|War|year|1078|1|Network Flow
+1319|1591|Avenger|rating|2012|2|DP
+1320|745|War|rating|186|1|DP
+1321|1637|Iron|popularity|329|4|String Matching
+1322|1861|Avatar|year|1048|2|String Matching
+1323|2485|War|popularity|1506|8|Trees
+1324|2010|Star|popularity|2477|4|Sorting
+1325|2388|Baahubali|year|708|2|Trees
+1326|1745|Avenger|year|454|4|String Matching
+1327|274|Vikram|duration|1014|1|Trees
+1328|1105|Vikram|year|1881|4|Searching
+1329|1775|Baahubali|title|670|1|Network Flow
+1330|2466|Iron|title|2109|1|Hashing
+1331|1461|Avatar|title|812|4|Network Flow
+1332|2447|Knight|rating|2461|4|Searching
+1333|2226|Iron|title|1553|8|Network Flow
+1334|1038|Vikram|duration|1115|1|String Matching
+1335|1110|Avatar|popularity|278|8|String Matching
+1336|172|Iron|duration|1845|1|Trees
+1337|1986|Avatar|popularity|2306|1|String Matching
+1338|1995|Baahubali|title|2037|1|Parallel
+1339|1151|Avenger|popularity|1494|1|DP
+1340|2498|Avenger|popularity|2418|8|Parallel
+1341|2174|Knight|duration|198|1|Hashing
+1342|214|Iron|duration|570|2|String Matching
+1343|293|Galaxy|title|1665|1|Parallel
+1344|962|War|popularity|2255|8|Sorting
+1345|2009|Vikram|duration|1832|4|String Matching
+1346|1281|Knight|duration|879|1|Trees
+1347|257|Galaxy|duration|250|2|DP
+1348|64|Galaxy|year|2286|2|String Matching
+1349|1696|Knight|rating|1389|4|DP
+1350|2388|Avenger|duration|488|1|Sorting
+1351|620|Avenger|title|1631|2|Hashing
+1352|278|Iron|title|2391|8|Sorting
+1353|2484|Iron|year|1403|4|String Matching
+1354|522|Baahubali|popularity|1282|2|Sorting
+1355|776|Dark|rating|1753|4|DP
+1356|1090|Star|year|2313|4|Network Flow
+1357|1520|War|popularity|2310|4|Network Flow
+1358|368|Baahubali|rating|1886|8|DP
+1359|415|Avenger|rating|1258|1|DP
+1360|1707|Knight|title|1873|8|DP
+1361|654|Dark|duration|1310|1|DP
+1362|2167|Avenger|title|803|2|String Matching
+1363|284|War|duration|1411|8|String Matching
+1364|1732|Avenger|duration|412|8|Trees
+1365|1760|War|rating|2480|1|Network Flow
+1366|2377|Baahubali|title|2339|2|DP
+1367|942|Galaxy|title|2158|1|Sorting
+1368|1998|Knight|title|1726|1|Searching
+1369|1559|Avatar|duration|945|1|Hashing
+1370|1731|Galaxy|title|709|8|Trees
+1371|1907|Iron|duration|955|8|Trees
+1372|892|Galaxy|year|2408|1|Network Flow
+1373|2137|Avatar|year|1347|4|Trees
+1374|1143|Avenger|title|1282|2|DP
+1375|2289|Iron|popularity|1042|2|String Matching
+1376|1265|Dark|rating|932|2|Network Flow
+1377|413|Avatar|popularity|1786|8|Searching
+1378|318|Vikram|rating|1276|4|Parallel
+1379|1169|Galaxy|duration|568|2|Parallel
+1380|446|War|rating|205|4|Trees
+1381|2122|Dark|title|1160|4|Parallel
+1382|1317|War|year|1744|1|Searching
+1383|2374|Dark|rating|1874|2|Network Flow
+1384|1764|Vikram|rating|674|1|Sorting
+1385|2255|Galaxy|year|879|4|String Matching
+1386|1138|Avenger|popularity|663|2|Searching
+1387|1665|Avenger|rating|434|1|Parallel
+1388|115|Vikram|rating|1831|1|DP
+1389|535|Avenger|popularity|1587|4|Trees
+1390|2435|Galaxy|year|2360|4|Parallel
+1391|338|Dark|year|1196|4|String Matching
+1392|1226|Iron|duration|2129|2|Sorting
+1393|680|Galaxy|duration|746|4|Searching
+1394|872|Knight|duration|1654|8|String Matching
+1395|788|Iron|duration|1688|1|String Matching
+1396|1052|Dark|popularity|1842|2|Trees
+1397|654|Avenger|popularity|1021|8|Searching
+1398|739|Avatar|year|1617|4|Parallel
+1399|1119|Iron|rating|495|2|Network Flow
+1400|2188|Vikram|title|190|1|Searching
